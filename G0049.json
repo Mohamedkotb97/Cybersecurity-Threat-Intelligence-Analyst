@@ -1,0 +1,1501 @@
+{
+    "Group Details": {
+        "Group Name": "OilRig",
+        "Group ID": "G0049",
+        "Description": "OilRigis a suspected Iranian threat group that has targeted Middle Eastern and international victims since at least 2014. The group has targeted a variety of sectors, including financial, government, energy, chemical, and telecommunications. It appears the group carries out supply chain attacks, leveraging the trust relationship between organizations to attack their primary targets. The group works on behalf of the Iranian government based on infrastructure details that contain references to Iran, use of Iranian infrastructure, and targeting that aligns with nation-state interests.[1][2][3][4][5][6][7]",
+        "References": [
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html",
+                "text": "[1]"
+            },
+            {
+                "number": "2",
+                "link": "http://researchcenter.paloaltonetworks.com/2017/04/unit42-oilrig-actors-provide-glimpse-development-testing-efforts/",
+                "text": "[2]"
+            },
+            {
+                "number": "3",
+                "link": "http://www.clearskysec.com/oilrig/",
+                "text": "[3]"
+            },
+            {
+                "number": "4",
+                "link": "http://researchcenter.paloaltonetworks.com/2016/05/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/",
+                "text": "[4]"
+            },
+            {
+                "number": "5",
+                "link": "http://researchcenter.paloaltonetworks.com/2016/10/unit42-oilrig-malware-campaign-updates-toolset-and-expands-targets/",
+                "text": "[5]"
+            },
+            {
+                "number": "6",
+                "link": "https://pan-unit42.github.io/playbook_viewer/?pb=evasive-serpens",
+                "text": "[6]"
+            },
+            {
+                "number": "7",
+                "link": "https://researchcenter.paloaltonetworks.com/2018/07/unit42-oilrig-targets-technology-service-provider-government-agency-quadagent/",
+                "text": "[7]"
+            },
+            {
+                "number": "8",
+                "link": "https://www.secureworks.com/research/threat-profiles/cobalt-gypsy",
+                "text": "[8]"
+            },
+            {
+                "number": "9",
+                "link": "https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-november-helix-kitten/",
+                "text": "[9]"
+            },
+            {
+                "number": "7",
+                "link": "https://researchcenter.paloaltonetworks.com/2018/07/unit42-oilrig-targets-technology-service-provider-government-agency-quadagent/",
+                "text": "[7]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html",
+                "text": "[1]"
+            },
+            {
+                "number": "10",
+                "link": "https://research.checkpoint.com/2021/irans-apt34-returns-with-an-updated-arsenal/",
+                "text": "[10]"
+            },
+            {
+                "number": "7",
+                "link": "https://researchcenter.paloaltonetworks.com/2018/07/unit42-oilrig-targets-technology-service-provider-government-agency-quadagent/",
+                "text": "[7]"
+            },
+            {
+                "number": "9",
+                "link": "https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-november-helix-kitten/",
+                "text": "[9]"
+            },
+            {
+                "number": "6",
+                "link": "https://pan-unit42.github.io/playbook_viewer/?pb=evasive-serpens",
+                "text": "[6]"
+            },
+            {
+                "number": "11",
+                "link": "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+                "text": "[11]"
+            },
+            {
+                "number": "11",
+                "link": "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+                "text": "[11]"
+            },
+            {
+                "number": "4",
+                "link": "http://researchcenter.paloaltonetworks.com/2016/05/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/",
+                "text": "[4]"
+            },
+            {
+                "number": "4",
+                "link": "http://researchcenter.paloaltonetworks.com/2016/05/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/",
+                "text": "[4]"
+            },
+            {
+                "number": "6",
+                "link": "https://pan-unit42.github.io/playbook_viewer/?pb=evasive-serpens",
+                "text": "[6]"
+            },
+            {
+                "number": "12",
+                "link": "https://www.brighttalk.com/webcast/10703/296317/apt34-new-targeted-attack-in-the-middle-east",
+                "text": "[12]"
+            },
+            {
+                "number": "13",
+                "link": "https://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html",
+                "text": "[13]"
+            },
+            {
+                "number": "6",
+                "link": "https://pan-unit42.github.io/playbook_viewer/?pb=evasive-serpens",
+                "text": "[6]"
+            },
+            {
+                "number": "12",
+                "link": "https://www.brighttalk.com/webcast/10703/296317/apt34-new-targeted-attack-in-the-middle-east",
+                "text": "[12]"
+            },
+            {
+                "number": "13",
+                "link": "https://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html",
+                "text": "[13]"
+            },
+            {
+                "number": "10",
+                "link": "https://research.checkpoint.com/2021/irans-apt34-returns-with-an-updated-arsenal/",
+                "text": "[10]"
+            },
+            {
+                "number": "6",
+                "link": "https://pan-unit42.github.io/playbook_viewer/?pb=evasive-serpens",
+                "text": "[6]"
+            },
+            {
+                "number": "12",
+                "link": "https://www.brighttalk.com/webcast/10703/296317/apt34-new-targeted-attack-in-the-middle-east",
+                "text": "[12]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html",
+                "text": "[1]"
+            },
+            {
+                "number": "14",
+                "link": "https://researchcenter.paloaltonetworks.com/2017/07/unit42-oilrig-uses-ismdoor-variant-possibly-linked-greenbug-threat-group/",
+                "text": "[14]"
+            },
+            {
+                "number": "15",
+                "link": "https://researchcenter.paloaltonetworks.com/2018/02/unit42-oopsie-oilrig-uses-threedollars-deliver-new-trojan/",
+                "text": "[15]"
+            },
+            {
+                "number": "7",
+                "link": "https://researchcenter.paloaltonetworks.com/2018/07/unit42-oilrig-targets-technology-service-provider-government-agency-quadagent/",
+                "text": "[7]"
+            },
+            {
+                "number": "16",
+                "link": "https://unit42.paloaltonetworks.com/unit42-analyzing-oilrigs-ops-tempo-testing-weaponization-delivery/",
+                "text": "[16]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html",
+                "text": "[1]"
+            },
+            {
+                "number": "17",
+                "link": "https://researchcenter.paloaltonetworks.com/2017/10/unit42-oilrig-group-steps-attacks-new-delivery-documents-new-injector-trojan/",
+                "text": "[17]"
+            },
+            {
+                "number": "9",
+                "link": "https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-november-helix-kitten/",
+                "text": "[9]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html",
+                "text": "[1]"
+            },
+            {
+                "number": "14",
+                "link": "https://researchcenter.paloaltonetworks.com/2017/07/unit42-oilrig-uses-ismdoor-variant-possibly-linked-greenbug-threat-group/",
+                "text": "[14]"
+            },
+            {
+                "number": "15",
+                "link": "https://researchcenter.paloaltonetworks.com/2018/02/unit42-oopsie-oilrig-uses-threedollars-deliver-new-trojan/",
+                "text": "[15]"
+            },
+            {
+                "number": "7",
+                "link": "https://researchcenter.paloaltonetworks.com/2018/07/unit42-oilrig-targets-technology-service-provider-government-agency-quadagent/",
+                "text": "[7]"
+            },
+            {
+                "number": "16",
+                "link": "https://unit42.paloaltonetworks.com/unit42-analyzing-oilrigs-ops-tempo-testing-weaponization-delivery/",
+                "text": "[16]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html",
+                "text": "[1]"
+            },
+            {
+                "number": "14",
+                "link": "https://researchcenter.paloaltonetworks.com/2017/07/unit42-oilrig-uses-ismdoor-variant-possibly-linked-greenbug-threat-group/",
+                "text": "[14]"
+            },
+            {
+                "number": "15",
+                "link": "https://researchcenter.paloaltonetworks.com/2018/02/unit42-oopsie-oilrig-uses-threedollars-deliver-new-trojan/",
+                "text": "[15]"
+            },
+            {
+                "number": "7",
+                "link": "https://researchcenter.paloaltonetworks.com/2018/07/unit42-oilrig-targets-technology-service-provider-government-agency-quadagent/",
+                "text": "[7]"
+            },
+            {
+                "number": "16",
+                "link": "https://unit42.paloaltonetworks.com/unit42-analyzing-oilrigs-ops-tempo-testing-weaponization-delivery/",
+                "text": "[16]"
+            },
+            {
+                "number": "10",
+                "link": "https://research.checkpoint.com/2021/irans-apt34-returns-with-an-updated-arsenal/",
+                "text": "[10]"
+            },
+            {
+                "number": "6",
+                "link": "https://pan-unit42.github.io/playbook_viewer/?pb=evasive-serpens",
+                "text": "[6]"
+            },
+            {
+                "number": "12",
+                "link": "https://www.brighttalk.com/webcast/10703/296317/apt34-new-targeted-attack-in-the-middle-east",
+                "text": "[12]"
+            },
+            {
+                "number": "18",
+                "link": "https://www.fireeye.com/content/dam/collateral/en/mtrends-2018.pdf",
+                "text": "[18]"
+            },
+            {
+                "number": "13",
+                "link": "https://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html",
+                "text": "[13]"
+            },
+            {
+                "number": "6",
+                "link": "https://pan-unit42.github.io/playbook_viewer/?pb=evasive-serpens",
+                "text": "[6]"
+            },
+            {
+                "number": "12",
+                "link": "https://www.brighttalk.com/webcast/10703/296317/apt34-new-targeted-attack-in-the-middle-east",
+                "text": "[12]"
+            },
+            {
+                "number": "18",
+                "link": "https://www.fireeye.com/content/dam/collateral/en/mtrends-2018.pdf",
+                "text": "[18]"
+            },
+            {
+                "number": "13",
+                "link": "https://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html",
+                "text": "[13]"
+            },
+            {
+                "number": "13",
+                "link": "https://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html",
+                "text": "[13]"
+            },
+            {
+                "number": "13",
+                "link": "https://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html",
+                "text": "[13]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html",
+                "text": "[1]"
+            },
+            {
+                "number": "17",
+                "link": "https://researchcenter.paloaltonetworks.com/2017/10/unit42-oilrig-group-steps-attacks-new-delivery-documents-new-injector-trojan/",
+                "text": "[17]"
+            },
+            {
+                "number": "15",
+                "link": "https://researchcenter.paloaltonetworks.com/2018/02/unit42-oopsie-oilrig-uses-threedollars-deliver-new-trojan/",
+                "text": "[15]"
+            },
+            {
+                "number": "19",
+                "link": "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf",
+                "text": "[19]"
+            },
+            {
+                "number": "12",
+                "link": "https://www.brighttalk.com/webcast/10703/296317/apt34-new-targeted-attack-in-the-middle-east",
+                "text": "[12]"
+            },
+            {
+                "number": "5",
+                "link": "http://researchcenter.paloaltonetworks.com/2016/10/unit42-oilrig-malware-campaign-updates-toolset-and-expands-targets/",
+                "text": "[5]"
+            },
+            {
+                "number": "12",
+                "link": "https://www.brighttalk.com/webcast/10703/296317/apt34-new-targeted-attack-in-the-middle-east",
+                "text": "[12]"
+            },
+            {
+                "number": "14",
+                "link": "https://researchcenter.paloaltonetworks.com/2017/07/unit42-oilrig-uses-ismdoor-variant-possibly-linked-greenbug-threat-group/",
+                "text": "[14]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html",
+                "text": "[1]"
+            },
+            {
+                "number": "15",
+                "link": "https://researchcenter.paloaltonetworks.com/2018/02/unit42-oopsie-oilrig-uses-threedollars-deliver-new-trojan/",
+                "text": "[15]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html",
+                "text": "[1]"
+            },
+            {
+                "number": "12",
+                "link": "https://www.brighttalk.com/webcast/10703/296317/apt34-new-targeted-attack-in-the-middle-east",
+                "text": "[12]"
+            },
+            {
+                "number": "13",
+                "link": "https://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html",
+                "text": "[13]"
+            },
+            {
+                "number": "10",
+                "link": "https://research.checkpoint.com/2021/irans-apt34-returns-with-an-updated-arsenal/",
+                "text": "[10]"
+            },
+            {
+                "number": "12",
+                "link": "https://www.brighttalk.com/webcast/10703/296317/apt34-new-targeted-attack-in-the-middle-east",
+                "text": "[12]"
+            },
+            {
+                "number": "2",
+                "link": "http://researchcenter.paloaltonetworks.com/2017/04/unit42-oilrig-actors-provide-glimpse-development-testing-efforts/",
+                "text": "[2]"
+            },
+            {
+                "number": "16",
+                "link": "https://unit42.paloaltonetworks.com/unit42-analyzing-oilrigs-ops-tempo-testing-weaponization-delivery/",
+                "text": "[16]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html",
+                "text": "[1]"
+            },
+            {
+                "number": "7",
+                "link": "https://researchcenter.paloaltonetworks.com/2018/07/unit42-oilrig-targets-technology-service-provider-government-agency-quadagent/",
+                "text": "[7]"
+            },
+            {
+                "number": "6",
+                "link": "https://pan-unit42.github.io/playbook_viewer/?pb=evasive-serpens",
+                "text": "[6]"
+            },
+            {
+                "number": "9",
+                "link": "https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-november-helix-kitten/",
+                "text": "[9]"
+            },
+            {
+                "number": "16",
+                "link": "https://unit42.paloaltonetworks.com/unit42-analyzing-oilrigs-ops-tempo-testing-weaponization-delivery/",
+                "text": "[16]"
+            },
+            {
+                "number": "20",
+                "link": "https://www.fireeye.com/blog/threat-research/2019/12/breaking-the-rules-tough-outlook-for-home-page-attacks.html",
+                "text": "[20]"
+            },
+            {
+                "number": "6",
+                "link": "https://pan-unit42.github.io/playbook_viewer/?pb=evasive-serpens",
+                "text": "[6]"
+            },
+            {
+                "number": "12",
+                "link": "https://www.brighttalk.com/webcast/10703/296317/apt34-new-targeted-attack-in-the-middle-east",
+                "text": "[12]"
+            },
+            {
+                "number": "18",
+                "link": "https://www.fireeye.com/content/dam/collateral/en/mtrends-2018.pdf",
+                "text": "[18]"
+            },
+            {
+                "number": "13",
+                "link": "https://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html",
+                "text": "[13]"
+            },
+            {
+                "number": "6",
+                "link": "https://pan-unit42.github.io/playbook_viewer/?pb=evasive-serpens",
+                "text": "[6]"
+            },
+            {
+                "number": "12",
+                "link": "https://www.brighttalk.com/webcast/10703/296317/apt34-new-targeted-attack-in-the-middle-east",
+                "text": "[12]"
+            },
+            {
+                "number": "18",
+                "link": "https://www.fireeye.com/content/dam/collateral/en/mtrends-2018.pdf",
+                "text": "[18]"
+            },
+            {
+                "number": "13",
+                "link": "https://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html",
+                "text": "[13]"
+            },
+            {
+                "number": "6",
+                "link": "https://pan-unit42.github.io/playbook_viewer/?pb=evasive-serpens",
+                "text": "[6]"
+            },
+            {
+                "number": "12",
+                "link": "https://www.brighttalk.com/webcast/10703/296317/apt34-new-targeted-attack-in-the-middle-east",
+                "text": "[12]"
+            },
+            {
+                "number": "18",
+                "link": "https://www.fireeye.com/content/dam/collateral/en/mtrends-2018.pdf",
+                "text": "[18]"
+            },
+            {
+                "number": "13",
+                "link": "https://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html",
+                "text": "[13]"
+            },
+            {
+                "number": "21",
+                "link": "https://www.fireeye.com/blog/threat-research/2016/05/targeted_attacksaga.html",
+                "text": "[21]"
+            },
+            {
+                "number": "10",
+                "link": "https://research.checkpoint.com/2021/irans-apt34-returns-with-an-updated-arsenal/",
+                "text": "[10]"
+            },
+            {
+                "number": "4",
+                "link": "http://researchcenter.paloaltonetworks.com/2016/05/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/",
+                "text": "[4]"
+            },
+            {
+                "number": "4",
+                "link": "http://researchcenter.paloaltonetworks.com/2016/05/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/",
+                "text": "[4]"
+            },
+            {
+                "number": "15",
+                "link": "https://researchcenter.paloaltonetworks.com/2018/02/unit42-oopsie-oilrig-uses-threedollars-deliver-new-trojan/",
+                "text": "[15]"
+            },
+            {
+                "number": "7",
+                "link": "https://researchcenter.paloaltonetworks.com/2018/07/unit42-oilrig-targets-technology-service-provider-government-agency-quadagent/",
+                "text": "[7]"
+            },
+            {
+                "number": "9",
+                "link": "https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-november-helix-kitten/",
+                "text": "[9]"
+            },
+            {
+                "number": "15",
+                "link": "https://researchcenter.paloaltonetworks.com/2018/02/unit42-oopsie-oilrig-uses-threedollars-deliver-new-trojan/",
+                "text": "[15]"
+            },
+            {
+                "number": "13",
+                "link": "https://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html",
+                "text": "[13]"
+            },
+            {
+                "number": "4",
+                "link": "http://researchcenter.paloaltonetworks.com/2016/05/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/",
+                "text": "[4]"
+            },
+            {
+                "number": "6",
+                "link": "https://pan-unit42.github.io/playbook_viewer/?pb=evasive-serpens",
+                "text": "[6]"
+            },
+            {
+                "number": "12",
+                "link": "https://www.brighttalk.com/webcast/10703/296317/apt34-new-targeted-attack-in-the-middle-east",
+                "text": "[12]"
+            },
+            {
+                "number": "13",
+                "link": "https://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html",
+                "text": "[13]"
+            },
+            {
+                "number": "4",
+                "link": "http://researchcenter.paloaltonetworks.com/2016/05/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/",
+                "text": "[4]"
+            },
+            {
+                "number": "6",
+                "link": "https://pan-unit42.github.io/playbook_viewer/?pb=evasive-serpens",
+                "text": "[6]"
+            },
+            {
+                "number": "12",
+                "link": "https://www.brighttalk.com/webcast/10703/296317/apt34-new-targeted-attack-in-the-middle-east",
+                "text": "[12]"
+            },
+            {
+                "number": "19",
+                "link": "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf",
+                "text": "[19]"
+            },
+            {
+                "number": "6",
+                "link": "https://pan-unit42.github.io/playbook_viewer/?pb=evasive-serpens",
+                "text": "[6]"
+            },
+            {
+                "number": "15",
+                "link": "https://researchcenter.paloaltonetworks.com/2018/02/unit42-oopsie-oilrig-uses-threedollars-deliver-new-trojan/",
+                "text": "[15]"
+            },
+            {
+                "number": "7",
+                "link": "https://researchcenter.paloaltonetworks.com/2018/07/unit42-oilrig-targets-technology-service-provider-government-agency-quadagent/",
+                "text": "[7]"
+            },
+            {
+                "number": "13",
+                "link": "https://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html",
+                "text": "[13]"
+            },
+            {
+                "number": "10",
+                "link": "https://research.checkpoint.com/2021/irans-apt34-returns-with-an-updated-arsenal/",
+                "text": "[10]"
+            },
+            {
+                "number": "12",
+                "link": "https://www.brighttalk.com/webcast/10703/296317/apt34-new-targeted-attack-in-the-middle-east",
+                "text": "[12]"
+            },
+            {
+                "number": "6",
+                "link": "https://pan-unit42.github.io/playbook_viewer/?pb=evasive-serpens",
+                "text": "[6]"
+            },
+            {
+                "number": "12",
+                "link": "https://www.brighttalk.com/webcast/10703/296317/apt34-new-targeted-attack-in-the-middle-east",
+                "text": "[12]"
+            },
+            {
+                "number": "19",
+                "link": "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf",
+                "text": "[19]"
+            },
+            {
+                "number": "4",
+                "link": "http://researchcenter.paloaltonetworks.com/2016/05/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/",
+                "text": "[4]"
+            },
+            {
+                "number": "4",
+                "link": "http://researchcenter.paloaltonetworks.com/2016/05/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/",
+                "text": "[4]"
+            },
+            {
+                "number": "5",
+                "link": "http://researchcenter.paloaltonetworks.com/2016/10/unit42-oilrig-malware-campaign-updates-toolset-and-expands-targets/",
+                "text": "[5]"
+            },
+            {
+                "number": "13",
+                "link": "https://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html",
+                "text": "[13]"
+            },
+            {
+                "number": "10",
+                "link": "https://research.checkpoint.com/2021/irans-apt34-returns-with-an-updated-arsenal/",
+                "text": "[10]"
+            },
+            {
+                "number": "4",
+                "link": "http://researchcenter.paloaltonetworks.com/2016/05/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/",
+                "text": "[4]"
+            },
+            {
+                "number": "5",
+                "link": "http://researchcenter.paloaltonetworks.com/2016/10/unit42-oilrig-malware-campaign-updates-toolset-and-expands-targets/",
+                "text": "[5]"
+            },
+            {
+                "number": "4",
+                "link": "http://researchcenter.paloaltonetworks.com/2016/05/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/",
+                "text": "[4]"
+            },
+            {
+                "number": "4",
+                "link": "http://researchcenter.paloaltonetworks.com/2016/05/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/",
+                "text": "[4]"
+            },
+            {
+                "number": "5",
+                "link": "http://researchcenter.paloaltonetworks.com/2016/10/unit42-oilrig-malware-campaign-updates-toolset-and-expands-targets/",
+                "text": "[5]"
+            },
+            {
+                "number": "10",
+                "link": "https://research.checkpoint.com/2021/irans-apt34-returns-with-an-updated-arsenal/",
+                "text": "[10]"
+            },
+            {
+                "number": "4",
+                "link": "http://researchcenter.paloaltonetworks.com/2016/05/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/",
+                "text": "[4]"
+            },
+            {
+                "number": "6",
+                "link": "https://pan-unit42.github.io/playbook_viewer/?pb=evasive-serpens",
+                "text": "[6]"
+            },
+            {
+                "number": "12",
+                "link": "https://www.brighttalk.com/webcast/10703/296317/apt34-new-targeted-attack-in-the-middle-east",
+                "text": "[12]"
+            },
+            {
+                "number": "18",
+                "link": "https://www.fireeye.com/content/dam/collateral/en/mtrends-2018.pdf",
+                "text": "[18]"
+            },
+            {
+                "number": "13",
+                "link": "https://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html",
+                "text": "[13]"
+            },
+            {
+                "number": "15",
+                "link": "https://researchcenter.paloaltonetworks.com/2018/02/unit42-oopsie-oilrig-uses-threedollars-deliver-new-trojan/",
+                "text": "[15]"
+            },
+            {
+                "number": "7",
+                "link": "https://researchcenter.paloaltonetworks.com/2018/07/unit42-oilrig-targets-technology-service-provider-government-agency-quadagent/",
+                "text": "[7]"
+            },
+            {
+                "number": "9",
+                "link": "https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-november-helix-kitten/",
+                "text": "[9]"
+            },
+            {
+                "number": "15",
+                "link": "https://researchcenter.paloaltonetworks.com/2018/02/unit42-oopsie-oilrig-uses-threedollars-deliver-new-trojan/",
+                "text": "[15]"
+            },
+            {
+                "number": "7",
+                "link": "https://researchcenter.paloaltonetworks.com/2018/07/unit42-oilrig-targets-technology-service-provider-government-agency-quadagent/",
+                "text": "[7]"
+            },
+            {
+                "number": "9",
+                "link": "https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-november-helix-kitten/",
+                "text": "[9]"
+            },
+            {
+                "number": "10",
+                "link": "https://research.checkpoint.com/2021/irans-apt34-returns-with-an-updated-arsenal/",
+                "text": "[10]"
+            },
+            {
+                "number": "6",
+                "link": "https://pan-unit42.github.io/playbook_viewer/?pb=evasive-serpens",
+                "text": "[6]"
+            },
+            {
+                "number": "12",
+                "link": "https://www.brighttalk.com/webcast/10703/296317/apt34-new-targeted-attack-in-the-middle-east",
+                "text": "[12]"
+            },
+            {
+                "number": "19",
+                "link": "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf",
+                "text": "[19]"
+            },
+            {
+                "number": "10",
+                "link": "https://research.checkpoint.com/2021/irans-apt34-returns-with-an-updated-arsenal/",
+                "text": "[10]"
+            },
+            {
+                "number": "12",
+                "link": "https://www.brighttalk.com/webcast/10703/296317/apt34-new-targeted-attack-in-the-middle-east",
+                "text": "[12]"
+            },
+            {
+                "number": "22",
+                "link": "https://www.cyberviser.com/2018/05/group-linked-to-shamoon-attacks-targeting-ics-networks-in-middle-east-and-uk/",
+                "text": "[22]"
+            },
+            {
+                "number": "23",
+                "link": "https://unit42.paloaltonetworks.com/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/",
+                "text": "[23]"
+            },
+            {
+                "number": "23",
+                "link": "https://unit42.paloaltonetworks.com/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/",
+                "text": "[23]"
+            },
+            {
+                "number": "23",
+                "link": "https://unit42.paloaltonetworks.com/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/",
+                "text": "[23]"
+            },
+            {
+                "number": "24",
+                "link": "https://dragos.com/resource/chrysene/",
+                "text": "[24]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html",
+                "text": "[1]"
+            },
+            {
+                "number": "25",
+                "link": "https://unit42.paloaltonetworks.com/unit42-oilrig-uses-updated-bondupdater-target-middle-eastern-government/",
+                "text": "[25]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html",
+                "text": "[1]"
+            },
+            {
+                "number": "5",
+                "link": "http://researchcenter.paloaltonetworks.com/2016/10/unit42-oilrig-malware-campaign-updates-toolset-and-expands-targets/",
+                "text": "[5]"
+            },
+            {
+                "number": "4",
+                "link": "http://researchcenter.paloaltonetworks.com/2016/05/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/",
+                "text": "[4]"
+            },
+            {
+                "number": "12",
+                "link": "https://www.brighttalk.com/webcast/10703/296317/apt34-new-targeted-attack-in-the-middle-east",
+                "text": "[12]"
+            },
+            {
+                "number": "9",
+                "link": "https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-november-helix-kitten/",
+                "text": "[9]"
+            },
+            {
+                "number": "4",
+                "link": "http://researchcenter.paloaltonetworks.com/2016/05/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/",
+                "text": "[4]"
+            },
+            {
+                "number": "17",
+                "link": "https://researchcenter.paloaltonetworks.com/2017/10/unit42-oilrig-group-steps-attacks-new-delivery-documents-new-injector-trojan/",
+                "text": "[17]"
+            },
+            {
+                "number": "18",
+                "link": "https://www.fireeye.com/content/dam/collateral/en/mtrends-2018.pdf",
+                "text": "[18]"
+            },
+            {
+                "number": "6",
+                "link": "https://pan-unit42.github.io/playbook_viewer/?pb=evasive-serpens",
+                "text": "[6]"
+            },
+            {
+                "number": "12",
+                "link": "https://www.brighttalk.com/webcast/10703/296317/apt34-new-targeted-attack-in-the-middle-east",
+                "text": "[12]"
+            },
+            {
+                "number": "18",
+                "link": "https://www.fireeye.com/content/dam/collateral/en/mtrends-2018.pdf",
+                "text": "[18]"
+            },
+            {
+                "number": "4",
+                "link": "http://researchcenter.paloaltonetworks.com/2016/05/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/",
+                "text": "[4]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html",
+                "text": "[1]"
+            },
+            {
+                "number": "4",
+                "link": "http://researchcenter.paloaltonetworks.com/2016/05/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/",
+                "text": "[4]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html",
+                "text": "[1]"
+            },
+            {
+                "number": "15",
+                "link": "https://researchcenter.paloaltonetworks.com/2018/02/unit42-oopsie-oilrig-uses-threedollars-deliver-new-trojan/",
+                "text": "[15]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html",
+                "text": "[1]"
+            },
+            {
+                "number": "12",
+                "link": "https://www.brighttalk.com/webcast/10703/296317/apt34-new-targeted-attack-in-the-middle-east",
+                "text": "[12]"
+            },
+            {
+                "number": "7",
+                "link": "https://researchcenter.paloaltonetworks.com/2018/07/unit42-oilrig-targets-technology-service-provider-government-agency-quadagent/",
+                "text": "[7]"
+            },
+            {
+                "number": "26",
+                "link": "https://unit42.paloaltonetworks.com/oilrig-novel-c2-channel-steganography/",
+                "text": "[26]"
+            },
+            {
+                "number": "4",
+                "link": "http://researchcenter.paloaltonetworks.com/2016/05/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/",
+                "text": "[4]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html",
+                "text": "[1]"
+            },
+            {
+                "number": "27",
+                "link": "https://researchcenter.paloaltonetworks.com/2018/01/unit42-oilrig-uses-rgdoor-iis-backdoor-targets-middle-east/",
+                "text": "[27]"
+            },
+            {
+                "number": "12",
+                "link": "https://www.brighttalk.com/webcast/10703/296317/apt34-new-targeted-attack-in-the-middle-east",
+                "text": "[12]"
+            },
+            {
+                "number": "10",
+                "link": "https://research.checkpoint.com/2021/irans-apt34-returns-with-an-updated-arsenal/",
+                "text": "[10]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html",
+                "text": "[1]"
+            },
+            {
+                "number": "4",
+                "link": "http://researchcenter.paloaltonetworks.com/2016/05/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/",
+                "text": "[4]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html",
+                "text": "[1]"
+            }
+        ]
+    },
+    "Associated Groups": [
+        {
+            "Name": "COBALT GYPSY",
+            "Description": "https://www.secureworks.com/research/threat-profiles/cobalt-gypsy"
+        },
+        {
+            "Name": "IRN2",
+            "Description": "https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-november-helix-kitten/"
+        },
+        {
+            "Name": "APT34",
+            "Description": "This group was previously tracked under two distinct groups, APT34 and OilRig, but was combined due to additional reporting giving higher confidence about the overlap of the activity.[7][1][10]"
+        },
+        {
+            "Name": "Helix Kitten",
+            "Description": "[7][9]"
+        },
+        {
+            "Name": "Evasive Serpens",
+            "Description": "https://pan-unit42.github.io/playbook_viewer/?pb=evasive-serpens"
+        },
+        {
+            "Name": "Hazel Sandstorm",
+            "Description": "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide"
+        },
+        {
+            "Name": "EUROPIUM",
+            "Description": "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide"
+        }
+    ],
+    "Tactics and Techniques": [
+        {
+            "Domain": "Enterprise",
+            "ID": "T1087",
+            "ID.1": ".001",
+            "Name": "Account Discovery: Local Account",
+            "Use": "OilRig has run net user, net user /domain, net group \"domain admins\" /domain, and net group \"Exchange Trusted Subsystem\" /domain to get account listings on a victim.[4]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".002",
+            "Name": "Account Discovery: Domain Account",
+            "Use": "OilRig has run net user, net user /domain, net group \"domain admins\" /domain, and net group \"Exchange Trusted Subsystem\" /domain to get account listings on a victim.[4]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1071",
+            "ID.1": ".001",
+            "Name": "Application Layer Protocol: Web Protocols",
+            "Use": "OilRig has used HTTP for C2.[6][12][13]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".004",
+            "Name": "Application Layer Protocol: DNS",
+            "Use": "OilRig has used DNS for C2 including the publicly available requestbin.net tunneling service.[6][12][13][10]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1119",
+            "ID.1": "T1119",
+            "Name": "Automated Collection",
+            "Use": "OilRig has used automated collection.[6]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1110",
+            "ID.1": "T1110",
+            "Name": "Brute Force",
+            "Use": "OilRig has used brute force techniques to obtain credentials.[12]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1059",
+            "ID.1": "T1059",
+            "Name": "Command and Scripting Interpreter",
+            "Use": "OilRig has used various types of scripting for execution.[1][14][15][7][16]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".001",
+            "Name": "PowerShell",
+            "Use": "OilRig has used PowerShell scripts for execution, including use of a macro to run a PowerShell command to decode file contents.[1][17][9]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".003",
+            "Name": "Windows Command Shell",
+            "Use": "OilRig has used macros to deliver malware such as QUADAGENT and OopsIE.[1][14][15][7][16] OilRig has used batch scripts.[1][14][15][7][16]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".005",
+            "Name": "Visual Basic",
+            "Use": "OilRig has used VBScript macros for execution on compromised hosts.[10]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1555",
+            "ID.1": "T1555",
+            "Name": "Credentials from Password Stores",
+            "Use": "OilRig has used credential dumping tools such as LaZagne to steal credentials to accounts logged into the compromised system and to Outlook Web Access.[6][12][18][13]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".003",
+            "Name": "Credentials from Web Browsers",
+            "Use": "OilRig has used credential dumping tools such as LaZagne to steal credentials to accounts logged into the compromised system and to Outlook Web Access.[6][12][18][13] OilRig has also used tool named PICKPOCKET to dump passwords from web browsers.[13]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".004",
+            "Name": "Windows Credential Manager",
+            "Use": "OilRig has used credential dumping tool named VALUEVAULT to steal credentials from the Windows Credential Manager.[13]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1140",
+            "ID.1": "T1140",
+            "Name": "Deobfuscate/Decode Files or Information",
+            "Use": "A OilRig macro has run a PowerShell command to decode file contents. OilRig has also used certutil to decode base64-encoded files on victims.[1][17][15][19]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1573",
+            "ID.1": ".002",
+            "Name": "Encrypted Channel: Asymmetric Cryptography",
+            "Use": "OilRig used the Plink utility and other tools to create tunnels to C2 servers.[12]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1048",
+            "ID.1": ".003",
+            "Name": "Exfiltration Over Alternative Protocol: Exfiltration Over Unencrypted Non-C2 Protocol",
+            "Use": "OilRig has exfiltrated data over FTP separately from its primary C2 channel over DNS.[5]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1133",
+            "ID.1": "T1133",
+            "Name": "External Remote Services",
+            "Use": "OilRig uses remote services such as VPN, Citrix, or OWA to persist in an environment.[12]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1008",
+            "ID.1": "T1008",
+            "Name": "Fallback Channels",
+            "Use": "OilRig malware ISMAgent falls back to its DNS tunneling mechanism if it is unable to reach the C2 server over HTTP.[14]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1070",
+            "ID.1": ".004",
+            "Name": "Indicator Removal: File Deletion",
+            "Use": "OilRig has deleted files associated with their payload after execution.[1][15]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1105",
+            "ID.1": "T1105",
+            "Name": "Ingress Tool Transfer",
+            "Use": "OilRig can download remote files onto victims.[1]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1056",
+            "ID.1": ".001",
+            "Name": "Input Capture: Keylogging",
+            "Use": "OilRig has used keylogging tools called KEYPUNCH and LONGWATCH.[12][13]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1036",
+            "ID.1": "T1036",
+            "Name": "Masquerading",
+            "Use": "OilRig has used .doc file extensions to mask malicious executables.[10]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1046",
+            "ID.1": "T1046",
+            "Name": "Network Service Discovery",
+            "Use": "OilRig has used the publicly available tool SoftPerfect Network Scanner as well as a custom tool called GOLDIRONY to conduct network scanning.[12]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1027",
+            "ID.1": ".005",
+            "Name": "Obfuscated Files or Information: Indicator Removal from Tools",
+            "Use": "OilRig has tested malware samples to determine AV detection and subsequently modified the samples to ensure AV evasion.[2][16]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".013",
+            "Name": "Obfuscated Files or Information: Encrypted/Encoded File",
+            "Use": "OilRig has encrypted and encoded data in its malware, including by using base64.[1][7][6][9][16]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1137",
+            "ID.1": ".004",
+            "Name": "Office Application Startup: Outlook Home Page",
+            "Use": "OilRig has abused the Outlook Home Page feature for persistence. OilRig has also used CVE-2017-11774 to roll back the initial patch designed to protect against Home Page abuse.[20]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1003",
+            "ID.1": ".001",
+            "Name": "OS Credential Dumping: LSASS Memory",
+            "Use": "OilRig has used credential dumping tools such as Mimikatz to steal credentials to accounts logged into the compromised system and to Outlook Web Access.[6][12][18][13]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".004",
+            "Name": "OS Credential Dumping: LSA Secrets",
+            "Use": "OilRig has used credential dumping tools such as LaZagne to steal credentials to accounts logged into the compromised system and to Outlook Web Access.[6][12][18][13]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".005",
+            "Name": "OS Credential Dumping: Cached Domain Credentials",
+            "Use": "OilRig has used credential dumping tools such as LaZagne to steal credentials to accounts logged into the compromised system and to Outlook Web Access.[6][12][18][13]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1201",
+            "ID.1": "T1201",
+            "Name": "Password Policy Discovery",
+            "Use": "OilRig has used net.exe in a script with net accounts /domain to find the password policy of a domain.[21]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1120",
+            "ID.1": "T1120",
+            "Name": "Peripheral Device Discovery",
+            "Use": "OilRig has used tools to identify if a mouse is connected to a targeted system.[10]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1069",
+            "ID.1": ".001",
+            "Name": "Permission Groups Discovery: Local Groups",
+            "Use": "OilRig has used net localgroup administrators to find local administrators on compromised systems.[4]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".002",
+            "Name": "Permission Groups Discovery: Domain Groups",
+            "Use": "OilRig has used net group /domain, net group \"domain admins\" /domain, and net group \"Exchange Trusted Subsystem\" /domain to find domain group permission settings.[4]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1566",
+            "ID.1": ".001",
+            "Name": "Phishing: Spearphishing Attachment",
+            "Use": "OilRig has sent spearphising emails with malicious attachments to potential victims using compromised and/or spoofed email accounts.[15][7][9]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".002",
+            "Name": "Phishing: Spearphishing Link",
+            "Use": "OilRig has sent spearphising emails with malicious links to potential victims.[15]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".003",
+            "Name": "Phishing: Spearphishing via Service",
+            "Use": "OilRig has used LinkedIn to send spearphishing links.[13]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1057",
+            "ID.1": "T1057",
+            "Name": "Process Discovery",
+            "Use": "OilRig has run tasklist on a victim's machine.[4]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1572",
+            "ID.1": "T1572",
+            "Name": "Protocol Tunneling",
+            "Use": "OilRig has used the Plink utility and other tools to create tunnels to C2 servers.[6][12][13]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1012",
+            "ID.1": "T1012",
+            "Name": "Query Registry",
+            "Use": "OilRig has used reg query \"HKEY_CURRENT_USER\\Software\\Microsoft\\Terminal Server Client\\Default\" on a victim to query the Registry.[4]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1021",
+            "ID.1": ".001",
+            "Name": "Remote Services: Remote Desktop Protocol",
+            "Use": "OilRig has used Remote Desktop Protocol for lateral movement. The group has also used tunneling tools to tunnel RDP into the environment.[6][12][19]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".004",
+            "Name": "Remote Services: SSH",
+            "Use": "OilRig has used Putty to access compromised systems.[6]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1053",
+            "ID.1": ".005",
+            "Name": "Scheduled Task/Job: Scheduled Task",
+            "Use": "OilRig has created scheduled tasks that run a VBScript to execute a payload on victim machines.[15][7][13][10]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1113",
+            "ID.1": "T1113",
+            "Name": "Screen Capture",
+            "Use": "OilRig has a tool called CANDYKING to capture a screenshot of user's desktop.[12]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1505",
+            "ID.1": ".003",
+            "Name": "Server Software Component: Web Shell",
+            "Use": "OilRig has used web shells, often to maintain access to a victim network.[6][12][19]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1218",
+            "ID.1": ".001",
+            "Name": "System Binary Proxy Execution: Compiled HTML File",
+            "Use": "OilRig has used a CHM payload to load and execute another malicious file once delivered to a victim.[4]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1082",
+            "ID.1": "T1082",
+            "Name": "System Information Discovery",
+            "Use": "OilRig has run hostname and systeminfo on a victim.[4][5][13][10]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1016",
+            "ID.1": "T1016",
+            "Name": "System Network Configuration Discovery",
+            "Use": "OilRig has run ipconfig /all on a victim.[4][5]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1049",
+            "ID.1": "T1049",
+            "Name": "System Network Connections Discovery",
+            "Use": "OilRig has used netstat -an on a victim to get a listing of network connections.[4]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1033",
+            "ID.1": "T1033",
+            "Name": "System Owner/User Discovery",
+            "Use": "OilRig has run whoami on a victim.[4][5][10]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1007",
+            "ID.1": "T1007",
+            "Name": "System Service Discovery",
+            "Use": "OilRig has used sc query on a victim to gather information about services.[4]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1552",
+            "ID.1": ".001",
+            "Name": "Unsecured Credentials: Credentials In Files",
+            "Use": "OilRig has used credential dumping tools such as LaZagne to steal credentials to accounts logged into the compromised system and to Outlook Web Access.[6][12][18][13]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1204",
+            "ID.1": ".001",
+            "Name": "User Execution: Malicious Link",
+            "Use": "OilRig has delivered malicious links to achieve execution on the target system.[15][7][9]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".002",
+            "Name": "User Execution: Malicious File",
+            "Use": "OilRig has delivered macro-enabled documents that required targets to click the \"enable content\" button to execute the payload on the system.[15][7][9][10]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1078",
+            "ID.1": "T1078",
+            "Name": "Valid Accounts",
+            "Use": "OilRig has used compromised credentials to access other systems on a victim network.[6][12][19]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1497",
+            "ID.1": ".001",
+            "Name": "Virtualization/Sandbox Evasion: System Checks",
+            "Use": "OilRig has used macros to verify if a mouse is connected to a compromised machine.[10]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1047",
+            "ID.1": "T1047",
+            "Name": "Windows Management Instrumentation",
+            "Use": "OilRig has used WMI for execution.[12]"
+        },
+        {
+            "Domain": "ICS",
+            "ID": "T0817",
+            "ID.1": "T0817",
+            "Name": "Drive-by Compromise",
+            "Use": "OilRig has been seen utilizing watering hole attacks to collect credentials which could be used to gain access into ICS networks. https://www.cyberviser.com/2018/05/group-linked-to-shamoon-attacks-targeting-ics-networks-in-middle-east-and-uk/"
+        },
+        {
+            "Domain": "ICS",
+            "ID": "T0853",
+            "ID.1": "T0853",
+            "Name": "Scripting",
+            "Use": "OilRig has embedded a macro within spearphishing attachments that has been made up of both a VBScript and a PowerShell script.[23]"
+        },
+        {
+            "Domain": "ICS",
+            "ID": "T0865",
+            "ID.1": "T0865",
+            "Name": "Spearphishing Attachment",
+            "Use": "OilRig used spearphishing emails with malicious Microsoft Excel spreadsheet attachments. https://unit42.paloaltonetworks.com/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/"
+        },
+        {
+            "Domain": "ICS",
+            "ID": "T0869",
+            "ID.1": "T0869",
+            "Name": "Standard Application Layer Protocol",
+            "Use": "OilRig communicated with its command and control using HTTP requests. https://unit42.paloaltonetworks.com/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/"
+        },
+        {
+            "Domain": "ICS",
+            "ID": "T0859",
+            "ID.1": "T0859",
+            "Name": "Valid Accounts",
+            "Use": "OilRig utilized stolen credentials to gain access to victim machines.[24]"
+        }
+    ],
+    "Tools": [
+        {
+            "ID": "S0360",
+            "Name": "BONDUPDATER",
+            "References": "https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html https://unit42.paloaltonetworks.com/unit42-oilrig-uses-updated-bondupdater-target-middle-eastern-government/",
+            "Techniques": "Application Layer Protocol: DNS, Command and Scripting Interpreter: Windows Command Shell, Command and Scripting Interpreter: PowerShell, Dynamic Resolution: Domain Generation Algorithms, Hide Artifacts: Hidden Window, Ingress Tool Transfer, Scheduled Task/Job: Scheduled Task"
+        },
+        {
+            "ID": "S0160",
+            "Name": "certutil",
+            "References": "https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html",
+            "Techniques": "Archive Collected Data: Archive via Utility, Deobfuscate/Decode Files or Information, Ingress Tool Transfer, Subvert Trust Controls: Install Root Certificate"
+        },
+        {
+            "ID": "S0095",
+            "Name": "ftp",
+            "References": "http://researchcenter.paloaltonetworks.com/2016/10/unit42-oilrig-malware-campaign-updates-toolset-and-expands-targets/",
+            "Techniques": "Exfiltration Over Alternative Protocol: Exfiltration Over Unencrypted Non-C2 Protocol, Ingress Tool Transfer, Lateral Tool Transfer"
+        },
+        {
+            "ID": "S0170",
+            "Name": "Helminth",
+            "References": "[4][12][9]",
+            "Techniques": "Application Layer Protocol: DNS, Application Layer Protocol: Web Protocols, Automated Collection, Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder, Boot or Logon Autostart Execution: Shortcut Modification, Clipboard Data, Command and Scripting Interpreter: PowerShell, Command and Scripting Interpreter: Visual Basic, Command and Scripting Interpreter: Windows Command Shell, Data Encoding: Standard Encoding, Data Staged: Local Data Staging, Data Transfer Size Limits, Encrypted Channel: Symmetric Cryptography, Ingress Tool Transfer, Input Capture: Keylogging, Obfuscated Files or Information: Encrypted/Encoded File, Permission Groups Discovery: Local Groups, Permission Groups Discovery: Domain Groups, Process Discovery, Scheduled Task/Job: Scheduled Task, Subvert Trust Controls: Code Signing"
+        },
+        {
+            "ID": "S0100",
+            "Name": "ipconfig",
+            "References": "http://researchcenter.paloaltonetworks.com/2016/05/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/",
+            "Techniques": "System Network Configuration Discovery"
+        },
+        {
+            "ID": "S0189",
+            "Name": "ISMInjector",
+            "References": "https://researchcenter.paloaltonetworks.com/2017/10/unit42-oilrig-group-steps-attacks-new-delivery-documents-new-injector-trojan/",
+            "Techniques": "Deobfuscate/Decode Files or Information, Obfuscated Files or Information, Process Injection: Process Hollowing, Scheduled Task/Job: Scheduled Task"
+        },
+        {
+            "ID": "S0349",
+            "Name": "LaZagne",
+            "References": "https://www.fireeye.com/content/dam/collateral/en/mtrends-2018.pdf",
+            "Techniques": "Credentials from Password Stores: Windows Credential Manager, Credentials from Password Stores: Credentials from Web Browsers, Credentials from Password Stores, Credentials from Password Stores: Keychain, OS Credential Dumping: LSA Secrets, OS Credential Dumping: /etc/passwd and /etc/shadow, OS Credential Dumping: LSASS Memory, OS Credential Dumping: Cached Domain Credentials, OS Credential Dumping: Proc Filesystem, Unsecured Credentials: Credentials In Files"
+        },
+        {
+            "ID": "S0002",
+            "Name": "Mimikatz",
+            "References": "[6][12][18]",
+            "Techniques": "Access Token Manipulation: SID-History Injection, Account Manipulation, Boot or Logon Autostart Execution: Security Support Provider, Credentials from Password Stores, Credentials from Password Stores: Credentials from Web Browsers, Credentials from Password Stores: Windows Credential Manager, OS Credential Dumping: DCSync, OS Credential Dumping: Security Account Manager, OS Credential Dumping: LSASS Memory, OS Credential Dumping: LSA Secrets, Rogue Domain Controller, Steal or Forge Authentication Certificates, Steal or Forge Kerberos Tickets: Golden Ticket, Steal or Forge Kerberos Tickets: Silver Ticket, Unsecured Credentials: Private Keys, Use Alternate Authentication Material: Pass the Hash, Use Alternate Authentication Material: Pass the Ticket"
+        },
+        {
+            "ID": "S0039",
+            "Name": "Net",
+            "References": "[4][1]",
+            "Techniques": "Account Discovery: Domain Account, Account Discovery: Local Account, Create Account: Local Account, Create Account: Domain Account, Indicator Removal: Network Share Connection Removal, Network Share Discovery, Password Policy Discovery, Permission Groups Discovery: Domain Groups, Permission Groups Discovery: Local Groups, Remote Services: SMB/Windows Admin Shares, Remote System Discovery, System Network Connections Discovery, System Service Discovery, System Services: Service Execution, System Time Discovery"
+        },
+        {
+            "ID": "S0104",
+            "Name": "netstat",
+            "References": "[4][1]",
+            "Techniques": "System Network Connections Discovery"
+        },
+        {
+            "ID": "S0264",
+            "Name": "OopsIE",
+            "References": "https://researchcenter.paloaltonetworks.com/2018/02/unit42-oopsie-oilrig-uses-threedollars-deliver-new-trojan/",
+            "Techniques": "Application Layer Protocol: Web Protocols, Archive Collected Data: Archive via Custom Method, Archive Collected Data: Archive via Utility, Command and Scripting Interpreter: Windows Command Shell, Command and Scripting Interpreter: Visual Basic, Data Encoding: Standard Encoding, Data Staged: Local Data Staging, Data Transfer Size Limits, Deobfuscate/Decode Files or Information, Exfiltration Over C2 Channel, Indicator Removal: File Deletion, Ingress Tool Transfer, Obfuscated Files or Information: Software Packing, Obfuscated Files or Information, Scheduled Task/Job: Scheduled Task, System Information Discovery, System Time Discovery, Virtualization/Sandbox Evasion: System Checks, Windows Management Instrumentation"
+        },
+        {
+            "ID": "S0184",
+            "Name": "POWRUNER",
+            "References": "https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html",
+            "Techniques": "Account Discovery: Domain Account, Application Layer Protocol: Web Protocols, Application Layer Protocol: DNS, Command and Scripting Interpreter: Windows Command Shell, Command and Scripting Interpreter: PowerShell, Data Encoding: Standard Encoding, File and Directory Discovery, Ingress Tool Transfer, Permission Groups Discovery: Domain Groups, Permission Groups Discovery: Local Groups, Process Discovery, Query Registry, Scheduled Task/Job: Scheduled Task, Screen Capture, Software Discovery: Security Software Discovery, System Information Discovery, System Network Configuration Discovery, System Network Connections Discovery, System Owner/User Discovery, Windows Management Instrumentation"
+        },
+        {
+            "ID": "S0029",
+            "Name": "PsExec",
+            "References": "https://www.brighttalk.com/webcast/10703/296317/apt34-new-targeted-attack-in-the-middle-east",
+            "Techniques": "Create Account: Domain Account, Create or Modify System Process: Windows Service, Lateral Tool Transfer, Remote Services: SMB/Windows Admin Shares, System Services: Service Execution"
+        },
+        {
+            "ID": "S0269",
+            "Name": "QUADAGENT",
+            "References": "https://researchcenter.paloaltonetworks.com/2018/07/unit42-oilrig-targets-technology-service-provider-government-agency-quadagent/",
+            "Techniques": "Application Layer Protocol: DNS, Application Layer Protocol: Web Protocols, Command and Scripting Interpreter: Visual Basic, Command and Scripting Interpreter: Windows Command Shell, Command and Scripting Interpreter: PowerShell, Data Encoding: Standard Encoding, Deobfuscate/Decode Files or Information, Fallback Channels, Indicator Removal: File Deletion, Masquerading: Match Legitimate Name or Location, Modify Registry, Obfuscated Files or Information: Command Obfuscation, Obfuscated Files or Information: Fileless Storage, Query Registry, Scheduled Task/Job: Scheduled Task, System Network Configuration Discovery, System Owner/User Discovery"
+        },
+        {
+            "ID": "S0495",
+            "Name": "RDAT",
+            "References": "https://unit42.paloaltonetworks.com/oilrig-novel-c2-channel-steganography/",
+            "Techniques": "Application Layer Protocol: Web Protocols, Application Layer Protocol: DNS, Application Layer Protocol: Mail Protocols, Command and Scripting Interpreter: Windows Command Shell, Create or Modify System Process: Windows Service, Data Encoding: Standard Encoding, Data Encoding: Non-Standard Encoding, Data Obfuscation: Steganography, Data Obfuscation, Data Transfer Size Limits, Deobfuscate/Decode Files or Information, Encrypted Channel: Symmetric Cryptography, Exfiltration Over C2 Channel, Fallback Channels, Indicator Removal: File Deletion, Ingress Tool Transfer, Masquerading: Masquerade Task or Service, Masquerading: Match Legitimate Name or Location, Obfuscated Files or Information: Steganography, Screen Capture"
+        },
+        {
+            "ID": "S0075",
+            "Name": "Reg",
+            "References": "[4][1]",
+            "Techniques": "Modify Registry, Query Registry, Unsecured Credentials: Credentials in Registry"
+        },
+        {
+            "ID": "S0258",
+            "Name": "RGDoor",
+            "References": "https://researchcenter.paloaltonetworks.com/2018/01/unit42-oilrig-uses-rgdoor-iis-backdoor-targets-middle-east/",
+            "Techniques": "Application Layer Protocol: Web Protocols, Archive Collected Data: Archive via Custom Method, Command and Scripting Interpreter: Windows Command Shell, Deobfuscate/Decode Files or Information, Ingress Tool Transfer, Server Software Component: IIS Components, System Owner/User Discovery"
+        },
+        {
+            "ID": "S0185",
+            "Name": "SEASHARPEE",
+            "References": "https://www.brighttalk.com/webcast/10703/296317/apt34-new-targeted-attack-in-the-middle-east",
+            "Techniques": "Command and Scripting Interpreter: Windows Command Shell, Indicator Removal: Timestomp, Ingress Tool Transfer, Server Software Component: Web Shell"
+        },
+        {
+            "ID": "S0610",
+            "Name": "SideTwist",
+            "References": "https://research.checkpoint.com/2021/irans-apt34-returns-with-an-updated-arsenal/",
+            "Techniques": "Application Layer Protocol: Web Protocols, Command and Scripting Interpreter: Windows Command Shell, Data Encoding: Standard Encoding, Data from Local System, Data Obfuscation, Deobfuscate/Decode Files or Information, Encrypted Channel: Symmetric Cryptography, Exfiltration Over C2 Channel, Fallback Channels, File and Directory Discovery, Ingress Tool Transfer, Native API, System Information Discovery, System Network Configuration Discovery, System Owner/User Discovery"
+        },
+        {
+            "ID": "S0096",
+            "Name": "Systeminfo",
+            "References": "https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html",
+            "Techniques": "System Information Discovery"
+        },
+        {
+            "ID": "S0057",
+            "Name": "Tasklist",
+            "References": "[4][1]",
+            "Techniques": "Process Discovery, Software Discovery: Security Software Discovery, System Service Discovery"
+        }
+    ]
+}

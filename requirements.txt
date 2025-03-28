@@ -1,0 +1,13 @@
+# Elasticsearch client
+elasticsearch
+
+# OpenAI API
+openai
+
+# LangChain for optional local LLM integration
+langchain
+
+# Markdown and PDF generation
+markdown
+pdfkit
+weasyprint # Alternative to pdfkit if wkhtmltopdf is not available

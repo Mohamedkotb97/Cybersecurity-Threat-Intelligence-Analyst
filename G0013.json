@@ -1,0 +1,102 @@
+{
+    "Group Details": {
+        "Group Name": "APT30",
+        "Group ID": "G0013",
+        "Description": "APT30is a threat group suspected to be associated with the Chinese government. WhileNaikonshares some characteristics withAPT30, the two groups do not appear to be exact matches.[1][2]",
+        "References": [
+            {
+                "number": "1",
+                "link": "https://www2.fireeye.com/rs/fireye/images/rpt-apt30.pdf",
+                "text": "[1]"
+            },
+            {
+                "number": "2",
+                "link": "https://securelist.com/the-naikon-apt/69953/",
+                "text": "[2]"
+            },
+            {
+                "number": "1",
+                "link": "https://www2.fireeye.com/rs/fireye/images/rpt-apt30.pdf",
+                "text": "[1]"
+            },
+            {
+                "number": "1",
+                "link": "https://www2.fireeye.com/rs/fireye/images/rpt-apt30.pdf",
+                "text": "[1]"
+            },
+            {
+                "number": "1",
+                "link": "https://www2.fireeye.com/rs/fireye/images/rpt-apt30.pdf",
+                "text": "[1]"
+            },
+            {
+                "number": "1",
+                "link": "https://www2.fireeye.com/rs/fireye/images/rpt-apt30.pdf",
+                "text": "[1]"
+            },
+            {
+                "number": "1",
+                "link": "https://www2.fireeye.com/rs/fireye/images/rpt-apt30.pdf",
+                "text": "[1]"
+            },
+            {
+                "number": "1",
+                "link": "https://www2.fireeye.com/rs/fireye/images/rpt-apt30.pdf",
+                "text": "[1]"
+            },
+            {
+                "number": "1",
+                "link": "https://www2.fireeye.com/rs/fireye/images/rpt-apt30.pdf",
+                "text": "[1]"
+            }
+        ]
+    },
+    "Associated Groups": [
+        {
+            "Domain": "Enterprise",
+            "ID": "T1566",
+            "ID.1": "0.001",
+            "Name": "Phishing: Spearphishing Attachment",
+            "Use": "APT30 has used spearphishing emails with malicious DOC attachments.[1]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1204",
+            "ID.1": "0.002",
+            "Name": "User Execution: Malicious File",
+            "Use": "APT30 has relied on users to execute malicious file attachments delivered via spearphishing emails.[1]"
+        }
+    ],
+    "Tactics and Techniques": [
+        {
+            "ID": "S0031",
+            "Name": "BACKSPACE",
+            "References": "https://www2.fireeye.com/rs/fireye/images/rpt-apt30.pdf",
+            "Techniques": "Application Layer Protocol: Web Protocols, Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder, Boot or Logon Autostart Execution: Shortcut Modification, Command and Scripting Interpreter: Windows Command Shell, Data Encoding: Non-Standard Encoding, Exfiltration Over C2 Channel, File and Directory Discovery, Impair Defenses: Disable or Modify System Firewall, Modify Registry, Multi-Stage Channels, Process Discovery, Proxy: Internal Proxy, Query Registry, System Information Discovery"
+        },
+        {
+            "ID": "S0036",
+            "Name": "FLASHFLOOD",
+            "References": "https://www2.fireeye.com/rs/fireye/images/rpt-apt30.pdf",
+            "Techniques": "Archive Collected Data: Archive via Custom Method, Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder, Data from Local System, Data from Removable Media, Data Staged: Local Data Staging, File and Directory Discovery"
+        },
+        {
+            "ID": "S0034",
+            "Name": "NETEAGLE",
+            "References": "https://www2.fireeye.com/rs/fireye/images/rpt-apt30.pdf",
+            "Techniques": "Application Layer Protocol, Application Layer Protocol: Web Protocols, Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder, Command and Scripting Interpreter: Windows Command Shell, Dynamic Resolution, Encrypted Channel: Symmetric Cryptography, Exfiltration Over C2 Channel, Fallback Channels, File and Directory Discovery, Non-Application Layer Protocol, Process Discovery"
+        },
+        {
+            "ID": "S0028",
+            "Name": "SHIPSHAPE",
+            "References": "https://www2.fireeye.com/rs/fireye/images/rpt-apt30.pdf",
+            "Techniques": "Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder, Boot or Logon Autostart Execution: Shortcut Modification, Replication Through Removable Media"
+        },
+        {
+            "ID": "S0035",
+            "Name": "SPACESHIP",
+            "References": "https://www2.fireeye.com/rs/fireye/images/rpt-apt30.pdf",
+            "Techniques": "Archive Collected Data: Archive via Custom Method, Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder, Boot or Logon Autostart Execution: Shortcut Modification, Data Staged: Local Data Staging, Exfiltration Over Physical Medium: Exfiltration over USB, File and Directory Discovery"
+        }
+    ]
+}

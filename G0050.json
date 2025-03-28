@@ -1,0 +1,1551 @@
+{
+    "Group Details": {
+        "Group Name": "APT32",
+        "Group ID": "G0050",
+        "Description": "APT32is a suspected Vietnam-based threat group that has been active since at least 2014. The group has targeted multiple private sector industries as well as foreign governments, dissidents, and journalists with a strong focus on Southeast Asian countries like Vietnam, the Philippines, Laos, and Cambodia. They have extensively used strategic web compromises to compromise victims.[1][2][3]",
+        "References": [
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
+                "text": "[1]"
+            },
+            {
+                "number": "2",
+                "link": "https://www.volexity.com/blog/2017/11/06/oceanlotus-blossoms-mass-digital-surveillance-and-exploitation-of-asean-nations-the-media-human-rights-and-civil-society/",
+                "text": "[2]"
+            },
+            {
+                "number": "3",
+                "link": "https://www.welivesecurity.com/2018/03/13/oceanlotus-ships-new-backdoor/",
+                "text": "[3]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.cybereason.com/blog/operation-cobalt-kitty-apt",
+                "text": "[4]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
+                "text": "[1]"
+            },
+            {
+                "number": "2",
+                "link": "https://www.volexity.com/blog/2017/11/06/oceanlotus-blossoms-mass-digital-surveillance-and-exploitation-of-asean-nations-the-media-human-rights-and-civil-society/",
+                "text": "[2]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.cybereason.com/blog/operation-cobalt-kitty-apt",
+                "text": "[4]"
+            },
+            {
+                "number": "5",
+                "link": "https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/",
+                "text": "[5]"
+            },
+            {
+                "number": "6",
+                "link": "https://www.amnestyusa.org/wp-content/uploads/2021/02/Click-and-Bait_Vietnamese-Human-Rights-Defenders-Targeted-with-Spyware-Attacks.pdf",
+                "text": "[6]"
+            },
+            {
+                "number": "3",
+                "link": "https://www.welivesecurity.com/2018/03/13/oceanlotus-ships-new-backdoor/",
+                "text": "[3]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.cybereason.com/blog/operation-cobalt-kitty-apt",
+                "text": "[4]"
+            },
+            {
+                "number": "5",
+                "link": "https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/",
+                "text": "[5]"
+            },
+            {
+                "number": "6",
+                "link": "https://www.amnestyusa.org/wp-content/uploads/2021/02/Click-and-Bait_Vietnamese-Human-Rights-Defenders-Targeted-with-Spyware-Attacks.pdf",
+                "text": "[6]"
+            },
+            {
+                "number": "7",
+                "link": "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+                "text": "[7]"
+            },
+            {
+                "number": "7",
+                "link": "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+                "text": "[7]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "9",
+                "link": "https://www.volexity.com/blog/2020/11/06/oceanlotus-extending-cyber-espionage-operations-through-fake-websites/",
+                "text": "[9]"
+            },
+            {
+                "number": "9",
+                "link": "https://www.volexity.com/blog/2020/11/06/oceanlotus-extending-cyber-espionage-operations-through-fake-websites/",
+                "text": "[9]"
+            },
+            {
+                "number": "2",
+                "link": "https://www.volexity.com/blog/2017/11/06/oceanlotus-blossoms-mass-digital-surveillance-and-exploitation-of-asean-nations-the-media-human-rights-and-civil-society/",
+                "text": "[2]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.cybereason.com/blog/operation-cobalt-kitty-apt",
+                "text": "[4]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "5",
+                "link": "https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/",
+                "text": "[5]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.cybereason.com/blog/operation-cobalt-kitty-apt",
+                "text": "[4]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "5",
+                "link": "https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/",
+                "text": "[5]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
+                "text": "[1]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.cybereason.com/blog/operation-cobalt-kitty-apt",
+                "text": "[4]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.cybereason.com/blog/operation-cobalt-kitty-apt",
+                "text": "[4]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "9",
+                "link": "https://www.volexity.com/blog/2020/11/06/oceanlotus-extending-cyber-espionage-operations-through-fake-websites/",
+                "text": "[9]"
+            },
+            {
+                "number": "3",
+                "link": "https://www.welivesecurity.com/2018/03/13/oceanlotus-ships-new-backdoor/",
+                "text": "[3]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "5",
+                "link": "https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/",
+                "text": "[5]"
+            },
+            {
+                "number": "3",
+                "link": "https://www.welivesecurity.com/2018/03/13/oceanlotus-ships-new-backdoor/",
+                "text": "[3]"
+            },
+            {
+                "number": "9",
+                "link": "https://www.volexity.com/blog/2020/11/06/oceanlotus-extending-cyber-espionage-operations-through-fake-websites/",
+                "text": "[9]"
+            },
+            {
+                "number": "9",
+                "link": "https://www.volexity.com/blog/2020/11/06/oceanlotus-extending-cyber-espionage-operations-through-fake-websites/",
+                "text": "[9]"
+            },
+            {
+                "number": "5",
+                "link": "https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/",
+                "text": "[5]"
+            },
+            {
+                "number": "5",
+                "link": "https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/",
+                "text": "[5]"
+            },
+            {
+                "number": "5",
+                "link": "https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/",
+                "text": "[5]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
+                "text": "[1]"
+            },
+            {
+                "number": "5",
+                "link": "https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/",
+                "text": "[5]"
+            },
+            {
+                "number": "10",
+                "link": "https://www.welivesecurity.com/2019/04/09/oceanlotus-macos-malware-update/",
+                "text": "[10]"
+            },
+            {
+                "number": "6",
+                "link": "https://www.amnestyusa.org/wp-content/uploads/2021/02/Click-and-Bait_Vietnamese-Human-Rights-Defenders-Targeted-with-Spyware-Attacks.pdf",
+                "text": "[6]"
+            },
+            {
+                "number": "6",
+                "link": "https://www.amnestyusa.org/wp-content/uploads/2021/02/Click-and-Bait_Vietnamese-Human-Rights-Defenders-Targeted-with-Spyware-Attacks.pdf",
+                "text": "[6]"
+            },
+            {
+                "number": "10",
+                "link": "https://www.welivesecurity.com/2019/04/09/oceanlotus-macos-malware-update/",
+                "text": "[10]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
+                "text": "[1]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.cybereason.com/blog/operation-cobalt-kitty-apt",
+                "text": "[4]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "5",
+                "link": "https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/",
+                "text": "[5]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
+                "text": "[1]"
+            },
+            {
+                "number": "10",
+                "link": "https://www.welivesecurity.com/2019/04/09/oceanlotus-macos-malware-update/",
+                "text": "[10]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
+                "text": "[1]"
+            },
+            {
+                "number": "5",
+                "link": "https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/",
+                "text": "[5]"
+            },
+            {
+                "number": "10",
+                "link": "https://www.welivesecurity.com/2019/04/09/oceanlotus-macos-malware-update/",
+                "text": "[10]"
+            },
+            {
+                "number": "2",
+                "link": "https://www.volexity.com/blog/2017/11/06/oceanlotus-blossoms-mass-digital-surveillance-and-exploitation-of-asean-nations-the-media-human-rights-and-civil-society/",
+                "text": "[2]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "11",
+                "link": "https://twitter.com/ItsReallyNick/status/945681177108762624",
+                "text": "[11]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
+                "text": "[1]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "9",
+                "link": "https://www.volexity.com/blog/2020/11/06/oceanlotus-extending-cyber-espionage-operations-through-fake-websites/",
+                "text": "[9]"
+            },
+            {
+                "number": "5",
+                "link": "https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/",
+                "text": "[5]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "5",
+                "link": "https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/",
+                "text": "[5]"
+            },
+            {
+                "number": "3",
+                "link": "https://www.welivesecurity.com/2018/03/13/oceanlotus-ships-new-backdoor/",
+                "text": "[3]"
+            },
+            {
+                "number": "5",
+                "link": "https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/",
+                "text": "[5]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
+                "text": "[1]"
+            },
+            {
+                "number": "12",
+                "link": "https://github.com/danielbohannon/Invoke-Obfuscation",
+                "text": "[12]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "5",
+                "link": "https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/",
+                "text": "[5]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
+                "text": "[1]"
+            },
+            {
+                "number": "12",
+                "link": "https://github.com/danielbohannon/Invoke-Obfuscation",
+                "text": "[12]"
+            },
+            {
+                "number": "3",
+                "link": "https://www.welivesecurity.com/2018/03/13/oceanlotus-ships-new-backdoor/",
+                "text": "[3]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.cybereason.com/blog/operation-cobalt-kitty-apt",
+                "text": "[4]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "5",
+                "link": "https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/",
+                "text": "[5]"
+            },
+            {
+                "number": "10",
+                "link": "https://www.welivesecurity.com/2019/04/09/oceanlotus-macos-malware-update/",
+                "text": "[10]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
+                "text": "[1]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.cybereason.com/blog/operation-cobalt-kitty-apt",
+                "text": "[4]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.cybereason.com/blog/operation-cobalt-kitty-apt",
+                "text": "[4]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.cybereason.com/blog/operation-cobalt-kitty-apt",
+                "text": "[4]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.cybereason.com/blog/operation-cobalt-kitty-apt",
+                "text": "[4]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "3",
+                "link": "https://www.welivesecurity.com/2018/03/13/oceanlotus-ships-new-backdoor/",
+                "text": "[3]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.cybereason.com/blog/operation-cobalt-kitty-apt",
+                "text": "[4]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "5",
+                "link": "https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/",
+                "text": "[5]"
+            },
+            {
+                "number": "13",
+                "link": "https://www.fireeye.com/blog/threat-research/2020/04/apt32-targeting-chinese-government-in-covid-19-related-espionage.html",
+                "text": "[13]"
+            },
+            {
+                "number": "6",
+                "link": "https://www.amnestyusa.org/wp-content/uploads/2021/02/Click-and-Bait_Vietnamese-Human-Rights-Defenders-Targeted-with-Spyware-Attacks.pdf",
+                "text": "[6]"
+            },
+            {
+                "number": "3",
+                "link": "https://www.welivesecurity.com/2018/03/13/oceanlotus-ships-new-backdoor/",
+                "text": "[3]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.cybereason.com/blog/operation-cobalt-kitty-apt",
+                "text": "[4]"
+            },
+            {
+                "number": "13",
+                "link": "https://www.fireeye.com/blog/threat-research/2020/04/apt32-targeting-chinese-government-in-covid-19-related-espionage.html",
+                "text": "[13]"
+            },
+            {
+                "number": "9",
+                "link": "https://www.volexity.com/blog/2020/11/06/oceanlotus-extending-cyber-espionage-operations-through-fake-websites/",
+                "text": "[9]"
+            },
+            {
+                "number": "6",
+                "link": "https://www.amnestyusa.org/wp-content/uploads/2021/02/Click-and-Bait_Vietnamese-Human-Rights-Defenders-Targeted-with-Spyware-Attacks.pdf",
+                "text": "[6]"
+            },
+            {
+                "number": "9",
+                "link": "https://www.volexity.com/blog/2020/11/06/oceanlotus-extending-cyber-espionage-operations-through-fake-websites/",
+                "text": "[9]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "5",
+                "link": "https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/",
+                "text": "[5]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
+                "text": "[1]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.cybereason.com/blog/operation-cobalt-kitty-apt",
+                "text": "[4]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "5",
+                "link": "https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/",
+                "text": "[5]"
+            },
+            {
+                "number": "2",
+                "link": "https://www.volexity.com/blog/2017/11/06/oceanlotus-blossoms-mass-digital-surveillance-and-exploitation-of-asean-nations-the-media-human-rights-and-civil-society/",
+                "text": "[2]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
+                "text": "[1]"
+            },
+            {
+                "number": "9",
+                "link": "https://www.volexity.com/blog/2020/11/06/oceanlotus-extending-cyber-espionage-operations-through-fake-websites/",
+                "text": "[9]"
+            },
+            {
+                "number": "9",
+                "link": "https://www.volexity.com/blog/2020/11/06/oceanlotus-extending-cyber-espionage-operations-through-fake-websites/",
+                "text": "[9]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.cybereason.com/blog/operation-cobalt-kitty-apt",
+                "text": "[4]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "5",
+                "link": "https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/",
+                "text": "[5]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
+                "text": "[1]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "3",
+                "link": "https://www.welivesecurity.com/2018/03/13/oceanlotus-ships-new-backdoor/",
+                "text": "[3]"
+            },
+            {
+                "number": "5",
+                "link": "https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/",
+                "text": "[5]"
+            },
+            {
+                "number": "10",
+                "link": "https://www.welivesecurity.com/2019/04/09/oceanlotus-macos-malware-update/",
+                "text": "[10]"
+            },
+            {
+                "number": "13",
+                "link": "https://www.fireeye.com/blog/threat-research/2020/04/apt32-targeting-chinese-government-in-covid-19-related-espionage.html",
+                "text": "[13]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "13",
+                "link": "https://www.fireeye.com/blog/threat-research/2020/04/apt32-targeting-chinese-government-in-covid-19-related-espionage.html",
+                "text": "[13]"
+            },
+            {
+                "number": "3",
+                "link": "https://www.welivesecurity.com/2018/03/13/oceanlotus-ships-new-backdoor/",
+                "text": "[3]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "14",
+                "link": "https://twitter.com/ItsReallyNick/status/944321013084573697",
+                "text": "[14]"
+            },
+            {
+                "number": "5",
+                "link": "https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/",
+                "text": "[5]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.cybereason.com/blog/operation-cobalt-kitty-apt",
+                "text": "[4]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "9",
+                "link": "https://www.volexity.com/blog/2020/11/06/oceanlotus-extending-cyber-espionage-operations-through-fake-websites/",
+                "text": "[9]"
+            },
+            {
+                "number": "6",
+                "link": "https://www.amnestyusa.org/wp-content/uploads/2021/02/Click-and-Bait_Vietnamese-Human-Rights-Defenders-Targeted-with-Spyware-Attacks.pdf",
+                "text": "[6]"
+            },
+            {
+                "number": "3",
+                "link": "https://www.welivesecurity.com/2018/03/13/oceanlotus-ships-new-backdoor/",
+                "text": "[3]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.cybereason.com/blog/operation-cobalt-kitty-apt",
+                "text": "[4]"
+            },
+            {
+                "number": "5",
+                "link": "https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/",
+                "text": "[5]"
+            },
+            {
+                "number": "13",
+                "link": "https://www.fireeye.com/blog/threat-research/2020/04/apt32-targeting-chinese-government-in-covid-19-related-espionage.html",
+                "text": "[13]"
+            },
+            {
+                "number": "6",
+                "link": "https://www.amnestyusa.org/wp-content/uploads/2021/02/Click-and-Bait_Vietnamese-Human-Rights-Defenders-Targeted-with-Spyware-Attacks.pdf",
+                "text": "[6]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
+                "text": "[1]"
+            },
+            {
+                "number": "9",
+                "link": "https://www.volexity.com/blog/2020/11/06/oceanlotus-extending-cyber-espionage-operations-through-fake-websites/",
+                "text": "[9]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
+                "text": "[1]"
+            },
+            {
+                "number": "2",
+                "link": "https://www.volexity.com/blog/2017/11/06/oceanlotus-blossoms-mass-digital-surveillance-and-exploitation-of-asean-nations-the-media-human-rights-and-civil-society/",
+                "text": "[2]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.cybereason.com/blog/operation-cobalt-kitty-apt",
+                "text": "[4]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "9",
+                "link": "https://www.volexity.com/blog/2020/11/06/oceanlotus-extending-cyber-espionage-operations-through-fake-websites/",
+                "text": "[9]"
+            },
+            {
+                "number": "6",
+                "link": "https://www.amnestyusa.org/wp-content/uploads/2021/02/Click-and-Bait_Vietnamese-Human-Rights-Defenders-Targeted-with-Spyware-Attacks.pdf",
+                "text": "[6]"
+            },
+            {
+                "number": "15",
+                "link": "https://unit42.paloaltonetworks.com/tracking-oceanlotus-new-downloader-kerrdown/",
+                "text": "[15]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.cybereason.com/blog/operation-cobalt-kitty-apt",
+                "text": "[4]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "6",
+                "link": "https://www.amnestyusa.org/wp-content/uploads/2021/02/Click-and-Bait_Vietnamese-Human-Rights-Defenders-Targeted-with-Spyware-Attacks.pdf",
+                "text": "[6]"
+            },
+            {
+                "number": "15",
+                "link": "https://unit42.paloaltonetworks.com/tracking-oceanlotus-new-downloader-kerrdown/",
+                "text": "[15]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
+                "text": "[1]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
+                "text": "[1]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.cybereason.com/blog/operation-cobalt-kitty-apt",
+                "text": "[4]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "8",
+                "link": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+                "text": "[8]"
+            },
+            {
+                "number": "16",
+                "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/new-macos-backdoor-linked-to-oceanlotus-found/",
+                "text": "[16]"
+            },
+            {
+                "number": "6",
+                "link": "https://www.amnestyusa.org/wp-content/uploads/2021/02/Click-and-Bait_Vietnamese-Human-Rights-Defenders-Targeted-with-Spyware-Attacks.pdf",
+                "text": "[6]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
+                "text": "[1]"
+            },
+            {
+                "number": "17",
+                "link": "https://blog.netlab.360.com/rotajakiro_linux_version_of_oceanlotus/",
+                "text": "[17]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
+                "text": "[1]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
+                "text": "[1]"
+            }
+        ]
+    },
+    "Associated Groups": [
+        {
+            "Name": "SeaLotus",
+            "Description": "https://www.cybereason.com/blog/operation-cobalt-kitty-apt"
+        },
+        {
+            "Name": "OceanLotus",
+            "Description": "[1][2][4][5][6]"
+        },
+        {
+            "Name": "APT-C-00",
+            "Description": "[3][4][5][6]"
+        },
+        {
+            "Name": "Canvas Cyclone",
+            "Description": "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide"
+        },
+        {
+            "Name": "BISMUTH",
+            "Description": "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide"
+        }
+    ],
+    "Tactics and Techniques": [
+        {
+            "Domain": "Enterprise",
+            "ID": "T1087",
+            "ID.1": ".001",
+            "Name": "Account Discovery: Local Account",
+            "Use": "APT32 enumerated administrative users using the commands net localgroup administrators.[8]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1583",
+            "ID.1": ".001",
+            "Name": "Acquire Infrastructure: Domains",
+            "Use": "APT32 has set up and operated websites to gather information and deliver malware.[9]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".006",
+            "Name": "Acquire Infrastructure: Web Services",
+            "Use": "APT32 has set up Dropbox, Amazon S3, and Google Drive to host malicious downloads.[9]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1071",
+            "ID.1": ".001",
+            "Name": "Application Layer Protocol: Web Protocols",
+            "Use": "APT32 has used JavaScript that communicates over HTTP or HTTPS to attacker controlled domains to download additional frameworks. The group has also used downloaded encrypted payloads over HTTP.[2][8]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".003",
+            "Name": "Application Layer Protocol: Mail Protocols",
+            "Use": "APT32 has used email for C2 via an Office macro.[4][8]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1560",
+            "ID.1": "T1560",
+            "Name": "Archive Collected Data",
+            "Use": "APT32's backdoor has used LZMA compression and RC4 encryption before exfiltration.[5]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1547",
+            "ID.1": ".001",
+            "Name": "Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder",
+            "Use": "APT32 established persistence using Registry Run keys, both to execute PowerShell and VBS scripts as well as to execute their backdoor directly.[4][8][5]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1059",
+            "ID.1": "T1059",
+            "Name": "Command and Scripting Interpreter",
+            "Use": "APT32 has used COM scriptlets to download Cobalt Strike beacons.[8]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".001",
+            "Name": "PowerShell",
+            "Use": "APT32 has used PowerShell-based tools, PowerShell one-liners, and shellcode loaders for execution.[1][4][8]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".003",
+            "Name": "Windows Command Shell",
+            "Use": "APT32 has used cmd.exe for execution.[8]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".005",
+            "Name": "Visual Basic",
+            "Use": "APT32 has used macros, COM scriptlets, and VBS scripts.[4][8]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".007",
+            "Name": "JavaScript",
+            "Use": "APT32 has used JavaScript for drive-by downloads and C2 communications.[8][9]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1543",
+            "ID.1": ".003",
+            "Name": "Create or Modify System Process: Windows Service",
+            "Use": "APT32 modified Windows Services to ensure PowerShell scripts were loaded on the system. APT32 also creates a Windows service to establish persistence.[3][8][5]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1189",
+            "ID.1": "T1189",
+            "Name": "Drive-by Compromise",
+            "Use": "APT32 has infected victims by tricking them into visiting compromised watering hole websites.[3][9]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1585",
+            "ID.1": ".001",
+            "Name": "Establish Accounts: Social Media Accounts",
+            "Use": "APT32 has set up Facebook pages in tandem with fake websites.[9]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1048",
+            "ID.1": ".003",
+            "Name": "Exfiltration Over Alternative Protocol: Exfiltration Over Unencrypted Non-C2 Protocol",
+            "Use": "APT32's backdoor can exfiltrate data by encoding it in the subdomain field of DNS packets.[5]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1041",
+            "ID.1": "T1041",
+            "Name": "Exfiltration Over C2 Channel",
+            "Use": "APT32's backdoor has exfiltrated data using the already opened channel with its C&C server.[5]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1203",
+            "ID.1": "T1203",
+            "Name": "Exploitation for Client Execution",
+            "Use": "APT32 has used RTF document that includes an exploit to execute malicious code. (CVE-2017-11882)[5]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1068",
+            "ID.1": "T1068",
+            "Name": "Exploitation for Privilege Escalation",
+            "Use": "APT32 has used CVE-2016-7255 to escalate privileges.[1]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1083",
+            "ID.1": "T1083",
+            "Name": "File and Directory Discovery",
+            "Use": "APT32's backdoor possesses the capability to list files and directories on a machine. https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1222",
+            "ID.1": ".002",
+            "Name": "File and Directory Permissions Modification: Linux and Mac File and Directory Permissions Modification",
+            "Use": "APT32's macOS backdoor changes the permission of the file it wants to execute to 755.[10]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1589",
+            "ID.1": "T1589",
+            "Name": "Gather Victim Identity Information",
+            "Use": "APT32 has conducted targeted surveillance against activists and bloggers.[6]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".002",
+            "Name": "Email Addresses",
+            "Use": "APT32 has collected e-mail addresses for activists and bloggers in order to target them with spyware.[6]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1564",
+            "ID.1": ".001",
+            "Name": "Hide Artifacts: Hidden Files and Directories",
+            "Use": "APT32's macOS backdoor hides the clientID file via a chflags function.[10]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".003",
+            "Name": "Hide Artifacts: Hidden Window",
+            "Use": "APT32 has used the WindowStyle parameter to conceal PowerShell windows. https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".004",
+            "Name": "Hide Artifacts: NTFS File Attributes",
+            "Use": "APT32 used NTFS alternate data streams to hide their payloads.[8]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1574",
+            "ID.1": ".002",
+            "Name": "Hijack Execution Flow: DLL Side-Loading",
+            "Use": "APT32 ran legitimately-signed executables from Symantec and McAfee which load a malicious DLL. The group also side-loads its backdoor by dropping a library and a legitimate, signed executable (AcroTranscoder).[4][8][5]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1070",
+            "ID.1": ".001",
+            "Name": "Indicator Removal: Clear Windows Event Logs",
+            "Use": "APT32 has cleared select event log entries.[1]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".004",
+            "Name": "Indicator Removal: File Deletion",
+            "Use": "APT32's macOS backdoor can receive a \"delete\" command.[10]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".006",
+            "Name": "Indicator Removal: Timestomp",
+            "Use": "APT32 has used scheduled task raw XML with a backdated timestamp of June 2, 2016. The group has also set the creation time of the files dropped by the second stage of the exploit to match the creation time of kernel32.dll. Additionally, APT32 has used a random value to modify the timestamp of the file storing the clientID.[1][5][10]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1105",
+            "ID.1": "T1105",
+            "Name": "Ingress Tool Transfer",
+            "Use": "APT32 has added JavaScript to victim websites to download additional frameworks that profile and compromise website visitors.[2]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1056",
+            "ID.1": ".001",
+            "Name": "Input Capture: Keylogging",
+            "Use": "APT32 has abused the PasswordChangeNotify to monitor for and capture account password changes.[8]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1570",
+            "ID.1": "T1570",
+            "Name": "Lateral Tool Transfer",
+            "Use": "APT32 has deployed tools after moving laterally using administrative accounts.[8]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1036",
+            "ID.1": "T1036",
+            "Name": "Masquerading",
+            "Use": "APT32 has disguised a Cobalt Strike beacon as a Flash Installer.[8]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".003",
+            "Name": "Rename System Utilities",
+            "Use": "APT32 has moved and renamed pubprn.vbs to a .txt file to avoid detection.[11]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".004",
+            "Name": "Masquerade Task or Service",
+            "Use": "APT32 has used hidden or non-printing characters to help masquerade service names, such as appending a Unicode no-break space character to a legitimate service name. APT32 has also impersonated the legitimate Flash installer file name \"install_flashplayer.exe\".[1]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".005",
+            "Name": "Match Legitimate Name or Location",
+            "Use": "APT32 has renamed a NetCat binary to kb-10233.exe to masquerade as a Windows update. APT32 has also renamed a Cobalt Strike beacon payload to install_flashplayers.exe. [8][9]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1112",
+            "ID.1": "T1112",
+            "Name": "Modify Registry",
+            "Use": "APT32's backdoor has modified the Windows Registry to store the backdoor's configuration. https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1046",
+            "ID.1": "T1046",
+            "Name": "Network Service Discovery",
+            "Use": "APT32 performed network scanning on the network to search for open ports, services, OS finger-printing, and other vulnerabilities.[8]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1135",
+            "ID.1": "T1135",
+            "Name": "Network Share Discovery",
+            "Use": "APT32 used the net view command to show all shares available, including the administrative shares such as C$ and ADMIN$.[8]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1571",
+            "ID.1": "T1571",
+            "Name": "Non-Standard Port",
+            "Use": "An APT32 backdoor can use HTTP over a non-standard TCP port (e.g 14146) which is specified in the backdoor configuration.[5]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1027",
+            "ID.1": ".001",
+            "Name": "Obfuscated Files or Information: Binary Padding",
+            "Use": "APT32 includes garbage code to mislead anti-malware software and researchers.[3][5]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".010",
+            "Name": "Obfuscated Files or Information: Command Obfuscation",
+            "Use": "APT32 has used the Invoke-Obfuscation framework to obfuscate their PowerShell.[1][12][8]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".011",
+            "Name": "Obfuscated Files or Information: Fileless Storage",
+            "Use": "APT32's backdoor has stored its configuration in a registry key.[5]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".013",
+            "Name": "Obfuscated Files or Information: Encrypted/Encoded File",
+            "Use": "APT32 has performed code obfuscation, including encoding payloads using Base64 and using a framework called \"Dont-Kill-My-Cat (DKMC). APT32 also encrypts the library used for network exfiltration with AES-256 in CBC mode in their macOS backdoor.[1][12][3][4][8][5][10]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1588",
+            "ID.1": ".002",
+            "Name": "Obtain Capabilities: Tool",
+            "Use": "APT32 has obtained and used tools such as Mimikatz and Cobalt Strike, and a variety of other open-source tools from GitHub.[1][4]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1137",
+            "ID.1": "T1137",
+            "Name": "Office Application Startup",
+            "Use": "APT32 have replaced Microsoft Outlook's VbaProject.OTM file to install a backdoor macro for persistence.[4][8]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1003",
+            "ID.1": "T1003",
+            "Name": "OS Credential Dumping",
+            "Use": "APT32 used GetPassword_x64 to harvest credentials.[4][8]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".001",
+            "Name": "LSASS Memory",
+            "Use": "APT32 used Mimikatz and customized versions of Windows Credential Dumper to harvest credentials.[4][8]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1566",
+            "ID.1": ".001",
+            "Name": "Phishing: Spearphishing Attachment",
+            "Use": "APT32 has sent spearphishing emails with a malicious executable disguised as a document or spreadsheet.[3][4][8][5][13][6]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".002",
+            "Name": "Phishing: Spearphishing Link",
+            "Use": "APT32 has sent spearphishing emails containing malicious links.[3][4][13][9][6]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1598",
+            "ID.1": ".003",
+            "Name": "Phishing for Information: Spearphishing Link",
+            "Use": "APT32 has used malicious links to direct users to web pages designed to harvest credentials.[9]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1055",
+            "ID.1": "T1055",
+            "Name": "Process Injection",
+            "Use": "APT32 malware has injected a Cobalt Strike beacon into Rundll32.exe.[8]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1012",
+            "ID.1": "T1012",
+            "Name": "Query Registry",
+            "Use": "APT32's backdoor can query the Windows Registry to gather system information. https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1021",
+            "ID.1": ".002",
+            "Name": "Remote Services: SMB/Windows Admin Shares",
+            "Use": "APT32 used Net to use Windows' hidden network shares to copy their tools to remote machines for execution.[8]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1018",
+            "ID.1": "T1018",
+            "Name": "Remote System Discovery",
+            "Use": "APT32 has enumerated DC servers using the command net group \"Domain Controllers\" /domain. The group has also used the ping command.[8]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1053",
+            "ID.1": ".005",
+            "Name": "Scheduled Task/Job: Scheduled Task",
+            "Use": "APT32 has used scheduled tasks to persist on victim systems.[1][4][8][5]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1505",
+            "ID.1": ".003",
+            "Name": "Server Software Component: Web Shell",
+            "Use": "APT32 has used Web shells to maintain access to victim websites.[2]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1072",
+            "ID.1": "T1072",
+            "Name": "Software Deployment Tools",
+            "Use": "APT32 compromised McAfee ePO to move laterally by distributing malware as a software deployment task.[1]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1608",
+            "ID.1": ".001",
+            "Name": "Stage Capabilities: Upload Malware",
+            "Use": "APT32 has hosted malicious payloads in Dropbox, Amazon S3, and Google Drive for use during targeting.[9]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".004",
+            "Name": "Stage Capabilities: Drive-by Target",
+            "Use": "APT32 has stood up websites containing numerous articles and content scraped from the Internet to make them appear legitimate, but some of these pages include malicious JavaScript to profile the potential victim or infect them via a fake software update.[9]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1218",
+            "ID.1": ".005",
+            "Name": "System Binary Proxy Execution: Mshta",
+            "Use": "APT32 has used mshta.exe for code execution.[4][8]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".010",
+            "Name": "System Binary Proxy Execution: Regsvr32",
+            "Use": "APT32 created a Scheduled Task/Job that used regsvr32.exe to execute a COM scriptlet that dynamically downloaded a backdoor and injected it into memory. The group has also used regsvr32 to run their backdoor.[5][1][8]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".011",
+            "Name": "System Binary Proxy Execution: Rundll32",
+            "Use": "APT32 malware has used rundll32.exe to execute an initial infection process.[8]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1082",
+            "ID.1": "T1082",
+            "Name": "System Information Discovery",
+            "Use": "APT32 has collected the OS version and computer name from victims. One of the group's backdoors can also query the Windows Registry to gather system information, and another macOS backdoor performs a fingerprint of the machine on its first connection to the C&C server. APT32 executed shellcode to identify the name of the infected host.[3][5][10][13]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1016",
+            "ID.1": "T1016",
+            "Name": "System Network Configuration Discovery",
+            "Use": "APT32 used the ipconfig /all command to gather the IP address from the system.[8]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1049",
+            "ID.1": "T1049",
+            "Name": "System Network Connections Discovery",
+            "Use": "APT32 used the netstat -anpo tcp command to display TCP connections on the victim's machine.[8]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1033",
+            "ID.1": "T1033",
+            "Name": "System Owner/User Discovery",
+            "Use": "APT32 collected the victim's username and executed the whoami command on the victim's machine. APT32 executed shellcode to collect the username on the victim's machine. [13][3][8]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1216",
+            "ID.1": ".001",
+            "Name": "System Script Proxy Execution: PubPrn",
+            "Use": "APT32 has used PubPrn.vbs within execution scripts to execute malware, possibly bypassing defenses.[14]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1569",
+            "ID.1": ".002",
+            "Name": "System Services: Service Execution",
+            "Use": "APT32's backdoor has used Windows services as a way to execute its malicious payload. https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1552",
+            "ID.1": ".002",
+            "Name": "Unsecured Credentials: Credentials in Registry",
+            "Use": "APT32 used Outlook Credential Dumper to harvest credentials stored in Windows registry.[4][8]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1550",
+            "ID.1": ".002",
+            "Name": "Use Alternate Authentication Material: Pass the Hash",
+            "Use": "APT32 has used pass the hash for lateral movement.[8]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".003",
+            "Name": "Use Alternate Authentication Material: Pass the Ticket",
+            "Use": "APT32 successfully gained remote access by using pass the ticket.[8]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1204",
+            "ID.1": ".001",
+            "Name": "User Execution: Malicious Link",
+            "Use": "APT32 has lured targets to download a Cobalt Strike beacon by including a malicious link within spearphishing emails.[8][9][6]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".002",
+            "Name": "User Execution: Malicious File",
+            "Use": "APT32 has attempted to lure users to execute a malicious dropper delivered via a spearphishing attachment.[3][4][5][13][6]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1078",
+            "ID.1": ".003",
+            "Name": "Valid Accounts: Local Accounts",
+            "Use": "APT32 has used legitimate local admin account credentials.[1]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1102",
+            "ID.1": "T1102",
+            "Name": "Web Service",
+            "Use": "APT32 has used Dropbox, Amazon S3, and Google Drive to host malicious downloads.[9]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1047",
+            "ID.1": "T1047",
+            "Name": "Windows Management Instrumentation",
+            "Use": "APT32 used WMI to deploy their tools on remote machines and to gather information about the Outlook process.[8]"
+        }
+    ],
+    "Tools": [
+        {
+            "ID": "S0099",
+            "Name": "Arp",
+            "References": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+            "Techniques": "Remote System Discovery, System Network Configuration Discovery"
+        },
+        {
+            "ID": "S0154",
+            "Name": "Cobalt Strike",
+            "References": "[1][2][4][8][9][6][15]",
+            "Techniques": "Abuse Elevation Control Mechanism: Sudo and Sudo Caching, Abuse Elevation Control Mechanism: Bypass User Account Control, Access Token Manipulation: Parent PID Spoofing, Access Token Manipulation: Token Impersonation/Theft, Access Token Manipulation: Make and Impersonate Token, Account Discovery: Domain Account, Application Layer Protocol: DNS, Application Layer Protocol: Web Protocols, Application Layer Protocol: File Transfer Protocols, BITS Jobs, Browser Session Hijacking, Command and Scripting Interpreter: JavaScript, Command and Scripting Interpreter: Visual Basic, Command and Scripting Interpreter: PowerShell, Command and Scripting Interpreter: Python, Command and Scripting Interpreter: Windows Command Shell, Create or Modify System Process: Windows Service, Data Encoding: Standard Encoding, Data from Local System, Data Obfuscation: Protocol Impersonation, Data Transfer Size Limits, Deobfuscate/Decode Files or Information, Encrypted Channel: Asymmetric Cryptography, Encrypted Channel: Symmetric Cryptography, Exploitation for Client Execution, Exploitation for Privilege Escalation, File and Directory Discovery, Hide Artifacts: Process Argument Spoofing, Impair Defenses: Disable or Modify Tools, Indicator Removal: Timestomp, Ingress Tool Transfer, Input Capture: Keylogging, Modify Registry, Native API, Network Service Discovery, Network Share Discovery, Non-Application Layer Protocol, Obfuscated Files or Information: Indicator Removal from Tools, Obfuscated Files or Information, Office Application Startup: Office Template Macros, OS Credential Dumping: LSASS Memory, OS Credential Dumping: Security Account Manager, Permission Groups Discovery: Domain Groups, Permission Groups Discovery: Local Groups, Process Discovery, Process Injection: Dynamic-link Library Injection, Process Injection: Process Hollowing, Process Injection, Protocol Tunneling, Proxy: Domain Fronting, Proxy: Internal Proxy, Query Registry, Reflective Code Loading, Remote Services: Remote Desktop Protocol, Remote Services: SSH, Remote Services: Windows Remote Management, Remote Services: SMB/Windows Admin Shares, Remote Services: Distributed Component Object Model, Remote System Discovery, Scheduled Transfer, Screen Capture, Software Discovery, Subvert Trust Controls: Code Signing, System Binary Proxy Execution: Rundll32, System Network Configuration Discovery, System Network Connections Discovery, System Service Discovery, System Services: Service Execution, Use Alternate Authentication Material: Pass the Hash, Valid Accounts: Domain Accounts, Valid Accounts: Local Accounts, Windows Management Instrumentation"
+        },
+        {
+            "ID": "S0354",
+            "Name": "Denis",
+            "References": "[4][8]",
+            "Techniques": "Application Layer Protocol: DNS, Archive Collected Data: Archive via Library, Command and Scripting Interpreter: PowerShell, Command and Scripting Interpreter: Windows Command Shell, Data Encoding: Standard Encoding, Deobfuscate/Decode Files or Information, File and Directory Discovery, Hijack Execution Flow, Hijack Execution Flow: DLL Side-Loading, Indicator Removal: File Deletion, Ingress Tool Transfer, Native API, Obfuscated Files or Information: Command Obfuscation, Obfuscated Files or Information, Process Injection: Process Hollowing, Query Registry, System Information Discovery, System Network Configuration Discovery, System Owner/User Discovery, Virtualization/Sandbox Evasion: System Checks"
+        },
+        {
+            "ID": "S0477",
+            "Name": "Goopy",
+            "References": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+            "Techniques": "Application Layer Protocol: DNS, Application Layer Protocol: Web Protocols, Application Layer Protocol: Mail Protocols, Command and Scripting Interpreter: Visual Basic, Command and Scripting Interpreter: Windows Command Shell, Data from Local System, Deobfuscate/Decode Files or Information, Exfiltration Over C2 Channel, Hijack Execution Flow: DLL Side-Loading, Impair Defenses: Disable or Modify Tools, Indicator Removal: Clear Mailbox Data, Masquerading: Match Legitimate Name or Location, Native API, Obfuscated Files or Information, Obfuscated Files or Information: Binary Padding, Process Discovery, Scheduled Task/Job: Scheduled Task, System Owner/User Discovery"
+        },
+        {
+            "ID": "S0100",
+            "Name": "ipconfig",
+            "References": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+            "Techniques": "System Network Configuration Discovery"
+        },
+        {
+            "ID": "S0585",
+            "Name": "Kerrdown",
+            "References": "[6][15]",
+            "Techniques": "Command and Scripting Interpreter: Visual Basic, Deobfuscate/Decode Files or Information, Hijack Execution Flow: DLL Side-Loading, Ingress Tool Transfer, Obfuscated Files or Information, Phishing: Spearphishing Link, Phishing: Spearphishing Attachment, System Information Discovery, User Execution: Malicious File, User Execution: Malicious Link"
+        },
+        {
+            "ID": "S0156",
+            "Name": "KOMPROGO",
+            "References": "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
+            "Techniques": "Command and Scripting Interpreter: Windows Command Shell, System Information Discovery, Windows Management Instrumentation"
+        },
+        {
+            "ID": "S0002",
+            "Name": "Mimikatz",
+            "References": "[1][4][8]",
+            "Techniques": "Access Token Manipulation: SID-History Injection, Account Manipulation, Boot or Logon Autostart Execution: Security Support Provider, Credentials from Password Stores, Credentials from Password Stores: Credentials from Web Browsers, Credentials from Password Stores: Windows Credential Manager, OS Credential Dumping: DCSync, OS Credential Dumping: Security Account Manager, OS Credential Dumping: LSASS Memory, OS Credential Dumping: LSA Secrets, Rogue Domain Controller, Steal or Forge Authentication Certificates, Steal or Forge Kerberos Tickets: Golden Ticket, Steal or Forge Kerberos Tickets: Silver Ticket, Unsecured Credentials: Private Keys, Use Alternate Authentication Material: Pass the Hash, Use Alternate Authentication Material: Pass the Ticket"
+        },
+        {
+            "ID": "S0039",
+            "Name": "Net",
+            "References": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+            "Techniques": "Account Discovery: Domain Account, Account Discovery: Local Account, Create Account: Local Account, Create Account: Domain Account, Indicator Removal: Network Share Connection Removal, Network Share Discovery, Password Policy Discovery, Permission Groups Discovery: Domain Groups, Permission Groups Discovery: Local Groups, Remote Services: SMB/Windows Admin Shares, Remote System Discovery, System Network Connections Discovery, System Service Discovery, System Services: Service Execution, System Time Discovery"
+        },
+        {
+            "ID": "S0108",
+            "Name": "netsh",
+            "References": "https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf",
+            "Techniques": "Event Triggered Execution: Netsh Helper DLL, Impair Defenses: Disable or Modify System Firewall, Proxy, Software Discovery: Security Software Discovery"
+        },
+        {
+            "ID": "S0352",
+            "Name": "OSX_OCEANLOTUS.D",
+            "References": "[16][6]",
+            "Techniques": "Application Layer Protocol: Web Protocols, Archive Collected Data: Archive via Library, Archive Collected Data: Archive via Custom Method, Command and Scripting Interpreter: Unix Shell, Command and Scripting Interpreter: Visual Basic, Command and Scripting Interpreter: PowerShell, Create or Modify System Process: Launch Agent, Create or Modify System Process: Launch Daemon, Data Encoding: Standard Encoding, Data from Local System, Deobfuscate/Decode Files or Information, Encrypted Channel: Symmetric Cryptography, File and Directory Permissions Modification: Linux and Mac File and Directory Permissions Modification, Hide Artifacts: Hidden Files and Directories, Indicator Removal: File Deletion, Indicator Removal: Timestomp, Ingress Tool Transfer, Masquerading: Masquerade Task or Service, Masquerading: Masquerade File Type, Non-Application Layer Protocol, Non-Standard Port, Obfuscated Files or Information: Encrypted/Encoded File, Obfuscated Files or Information: Software Packing, Shared Modules, Subvert Trust Controls: Gatekeeper Bypass, System Information Discovery, System Network Configuration Discovery, Virtualization/Sandbox Evasion: System Checks"
+        },
+        {
+            "ID": "S0158",
+            "Name": "PHOREAL",
+            "References": "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
+            "Techniques": "Command and Scripting Interpreter: Windows Command Shell, Modify Registry, Non-Application Layer Protocol"
+        },
+        {
+            "ID": "S1078",
+            "Name": "RotaJakiro",
+            "References": "https://blog.netlab.360.com/rotajakiro_linux_version_of_oceanlotus/",
+            "Techniques": "Automated Collection, Boot or Logon Autostart Execution: XDG Autostart Entries, Boot or Logon Initialization Scripts, Create or Modify System Process: Systemd Service, Data Encoding: Standard Encoding, Deobfuscate/Decode Files or Information, Encrypted Channel: Symmetric Cryptography, Event Triggered Execution: Unix Shell Configuration Modification, Exfiltration Over C2 Channel, Inter-Process Communication, Masquerading: Match Legitimate Name or Location, Native API, Non-Application Layer Protocol, Non-Standard Port, Process Discovery, Shared Modules, System Information Discovery"
+        },
+        {
+            "ID": "S0157",
+            "Name": "SOUNDBITE",
+            "References": "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
+            "Techniques": "Application Layer Protocol: DNS, Application Window Discovery, File and Directory Discovery, Modify Registry, System Information Discovery"
+        },
+        {
+            "ID": "S0155",
+            "Name": "WINDSHIELD",
+            "References": "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
+            "Techniques": "Indicator Removal: File Deletion, Non-Application Layer Protocol, Query Registry, System Information Discovery, System Owner/User Discovery"
+        }
+    ]
+}

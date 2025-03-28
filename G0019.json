@@ -1,0 +1,396 @@
+{
+    "Group Details": {
+        "Group Name": "Naikon",
+        "Group ID": "G0019",
+        "Description": "Naikonis assessed to be a state-sponsored cyber espionage group attributed to the Chinese People\u2019s Liberation Army\u2019s (PLA) Chengdu Military Region Second Technical Reconnaissance Bureau (Military Unit Cover Designator 78020).[1]Active since at least 2010,Naikonhas primarily conducted operations against government, military, and civil organizations in Southeast Asia, as well as against international bodies such as the United Nations Development Programme (UNDP) and the Association of Southeast Asian Nations (ASEAN).[1][2]WhileNaikonshares some characteristics withAPT30, the two groups do not appear to be exact matches.[3]",
+        "References": [
+            {
+                "number": "1",
+                "link": "http://cdn2.hubspot.net/hubfs/454298/Project_CAMERASHY_ThreatConnect_Copyright_2015.pdf",
+                "text": "[1]"
+            },
+            {
+                "number": "1",
+                "link": "http://cdn2.hubspot.net/hubfs/454298/Project_CAMERASHY_ThreatConnect_Copyright_2015.pdf",
+                "text": "[1]"
+            },
+            {
+                "number": "2",
+                "link": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf",
+                "text": "[2]"
+            },
+            {
+                "number": "3",
+                "link": "https://securelist.com/the-naikon-apt/69953/",
+                "text": "[3]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.bitdefender.com/files/News/CaseStudies/study/396/Bitdefender-PR-Whitepaper-NAIKON-creat5397-en-EN.pdf",
+                "text": "[4]"
+            },
+            {
+                "number": "5",
+                "link": "https://research.checkpoint.com/2020/naikon-apt-cyber-espionage-reloaded/",
+                "text": "[5]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.bitdefender.com/files/News/CaseStudies/study/396/Bitdefender-PR-Whitepaper-NAIKON-creat5397-en-EN.pdf",
+                "text": "[4]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.bitdefender.com/files/News/CaseStudies/study/396/Bitdefender-PR-Whitepaper-NAIKON-creat5397-en-EN.pdf",
+                "text": "[4]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.bitdefender.com/files/News/CaseStudies/study/396/Bitdefender-PR-Whitepaper-NAIKON-creat5397-en-EN.pdf",
+                "text": "[4]"
+            },
+            {
+                "number": "5",
+                "link": "https://research.checkpoint.com/2020/naikon-apt-cyber-espionage-reloaded/",
+                "text": "[5]"
+            },
+            {
+                "number": "5",
+                "link": "https://research.checkpoint.com/2020/naikon-apt-cyber-espionage-reloaded/",
+                "text": "[5]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.bitdefender.com/files/News/CaseStudies/study/396/Bitdefender-PR-Whitepaper-NAIKON-creat5397-en-EN.pdf",
+                "text": "[4]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.bitdefender.com/files/News/CaseStudies/study/396/Bitdefender-PR-Whitepaper-NAIKON-creat5397-en-EN.pdf",
+                "text": "[4]"
+            },
+            {
+                "number": "2",
+                "link": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf",
+                "text": "[2]"
+            },
+            {
+                "number": "2",
+                "link": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf",
+                "text": "[2]"
+            },
+            {
+                "number": "5",
+                "link": "https://research.checkpoint.com/2020/naikon-apt-cyber-espionage-reloaded/",
+                "text": "[5]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.bitdefender.com/files/News/CaseStudies/study/396/Bitdefender-PR-Whitepaper-NAIKON-creat5397-en-EN.pdf",
+                "text": "[4]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.bitdefender.com/files/News/CaseStudies/study/396/Bitdefender-PR-Whitepaper-NAIKON-creat5397-en-EN.pdf",
+                "text": "[4]"
+            },
+            {
+                "number": "5",
+                "link": "https://research.checkpoint.com/2020/naikon-apt-cyber-espionage-reloaded/",
+                "text": "[5]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.bitdefender.com/files/News/CaseStudies/study/396/Bitdefender-PR-Whitepaper-NAIKON-creat5397-en-EN.pdf",
+                "text": "[4]"
+            },
+            {
+                "number": "2",
+                "link": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf",
+                "text": "[2]"
+            },
+            {
+                "number": "2",
+                "link": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf",
+                "text": "[2]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.bitdefender.com/files/News/CaseStudies/study/396/Bitdefender-PR-Whitepaper-NAIKON-creat5397-en-EN.pdf",
+                "text": "[4]"
+            },
+            {
+                "number": "2",
+                "link": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf",
+                "text": "[2]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.bitdefender.com/files/News/CaseStudies/study/396/Bitdefender-PR-Whitepaper-NAIKON-creat5397-en-EN.pdf",
+                "text": "[4]"
+            },
+            {
+                "number": "2",
+                "link": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf",
+                "text": "[2]"
+            },
+            {
+                "number": "2",
+                "link": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf",
+                "text": "[2]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.bitdefender.com/files/News/CaseStudies/study/396/Bitdefender-PR-Whitepaper-NAIKON-creat5397-en-EN.pdf",
+                "text": "[4]"
+            },
+            {
+                "number": "2",
+                "link": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf",
+                "text": "[2]"
+            },
+            {
+                "number": "4",
+                "link": "https://www.bitdefender.com/files/News/CaseStudies/study/396/Bitdefender-PR-Whitepaper-NAIKON-creat5397-en-EN.pdf",
+                "text": "[4]"
+            },
+            {
+                "number": "2",
+                "link": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf",
+                "text": "[2]"
+            },
+            {
+                "number": "1",
+                "link": "http://cdn2.hubspot.net/hubfs/454298/Project_CAMERASHY_ThreatConnect_Copyright_2015.pdf",
+                "text": "[1]"
+            },
+            {
+                "number": "2",
+                "link": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf",
+                "text": "[2]"
+            },
+            {
+                "number": "1",
+                "link": "http://cdn2.hubspot.net/hubfs/454298/Project_CAMERASHY_ThreatConnect_Copyright_2015.pdf",
+                "text": "[1]"
+            },
+            {
+                "number": "2",
+                "link": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf",
+                "text": "[2]"
+            },
+            {
+                "number": "2",
+                "link": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf",
+                "text": "[2]"
+            },
+            {
+                "number": "2",
+                "link": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf",
+                "text": "[2]"
+            },
+            {
+                "number": "2",
+                "link": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf",
+                "text": "[2]"
+            },
+            {
+                "number": "1",
+                "link": "http://cdn2.hubspot.net/hubfs/454298/Project_CAMERASHY_ThreatConnect_Copyright_2015.pdf",
+                "text": "[1]"
+            }
+        ]
+    },
+    "Associated Groups": [
+        {
+            "Domain": "Enterprise",
+            "ID": "T1547",
+            "ID.1": ".001",
+            "Name": "Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder",
+            "Use": "Naikon has modified a victim's Windows Run registry to establish persistence.[4]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1574",
+            "ID.1": ".002",
+            "Name": "Hijack Execution Flow: DLL Side-Loading",
+            "Use": "Naikon has used DLL side-loading to load malicious DLL's into legitimate executables.[5]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1036",
+            "ID.1": ".004",
+            "Name": "Masquerading: Masquerade Task or Service",
+            "Use": "Naikon renamed a malicious service taskmgr to appear to be a legitimate version of Task Manager.[4]"
+        },
+        {
+            "Domain": "nan",
+            "ID": "nan",
+            "ID.1": ".005",
+            "Name": "Masquerading: Match Legitimate Name or Location",
+            "Use": "Naikon has disguised malicious programs as Google Chrome, Adobe, and VMware executables.[4]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1046",
+            "ID.1": "T1046",
+            "Name": "Network Service Discovery",
+            "Use": "Naikon has used the LadonGo scanner to scan target networks.[4]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1137",
+            "ID.1": ".006",
+            "Name": "Office Application Startup: Add-ins",
+            "Use": "Naikon has used the RoyalRoad exploit builder to drop a second stage loader, intel.wll, into the Word Startup folder on the compromised host.[5]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1566",
+            "ID.1": ".001",
+            "Name": "Phishing: Spearphishing Attachment",
+            "Use": "Naikon has used malicious e-mail attachments to deliver malware.[5]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1018",
+            "ID.1": "T1018",
+            "Name": "Remote System Discovery",
+            "Use": "Naikon has used a netbios scanner for remote machine identification.[4]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1053",
+            "ID.1": ".005",
+            "Name": "Scheduled Task/Job: Scheduled Task",
+            "Use": "Naikon has used schtasks.exe for lateral movement in compromised networks.[4]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1518",
+            "ID.1": ".001",
+            "Name": "Software Discovery: Security Software Discovery",
+            "Use": "Naikon uses commands such as netsh advfirewall firewall to discover local firewall settings.[2]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1016",
+            "ID.1": "T1016",
+            "Name": "System Network Configuration Discovery",
+            "Use": "Naikon uses commands such as netsh interface show to discover network interface settings.[2]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1204",
+            "ID.1": ".002",
+            "Name": "User Execution: Malicious File",
+            "Use": "Naikon has convinced victims to open malicious attachments to execute malware.[5]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1078",
+            "ID.1": ".002",
+            "Name": "Valid Accounts: Domain Accounts",
+            "Use": "Naikon has used administrator credentials for lateral movement in compromised networks.[4]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1047",
+            "ID.1": "T1047",
+            "Name": "Windows Management Instrumentation",
+            "Use": "Naikon has used WMIC.exe for lateral movement.[4]"
+        }
+    ],
+    "Tactics and Techniques": [
+        {
+            "ID": "S0456",
+            "Name": "Aria-body",
+            "References": "[5][4]",
+            "Techniques": "Access Token Manipulation: Create Process with Token, Access Token Manipulation: Token Impersonation/Theft, Application Layer Protocol: Web Protocols, Application Window Discovery, Archive Collected Data, Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder, Data from Removable Media, Deobfuscate/Decode Files or Information, Dynamic Resolution: Domain Generation Algorithms, File and Directory Discovery, Indicator Removal: File Deletion, Ingress Tool Transfer, Native API, Non-Application Layer Protocol, Obfuscated Files or Information: Encrypted/Encoded File, Process Discovery, Process Injection: Dynamic-link Library Injection, Proxy, Screen Capture, System Information Discovery, System Network Configuration Discovery, System Network Connections Discovery, System Owner/User Discovery"
+        },
+        {
+            "ID": "S0095",
+            "Name": "ftp",
+            "References": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf",
+            "Techniques": "Exfiltration Over Alternative Protocol: Exfiltration Over Unencrypted Non-C2 Protocol, Ingress Tool Transfer, Lateral Tool Transfer"
+        },
+        {
+            "ID": "S0061",
+            "Name": "HDoor",
+            "References": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf",
+            "Techniques": "Impair Defenses: Disable or Modify Tools, Network Service Discovery"
+        },
+        {
+            "ID": "S0630",
+            "Name": "Nebulae",
+            "References": "https://www.bitdefender.com/files/News/CaseStudies/study/396/Bitdefender-PR-Whitepaper-NAIKON-creat5397-en-EN.pdf",
+            "Techniques": "Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder, Command and Scripting Interpreter: Windows Command Shell, Create or Modify System Process: Windows Service, Data from Local System, Encrypted Channel: Symmetric Cryptography, File and Directory Discovery, Hijack Execution Flow: DLL Side-Loading, Indicator Removal: File Deletion, Ingress Tool Transfer, Masquerading: Masquerade Task or Service, Masquerading: Match Legitimate Name or Location, Native API, Non-Application Layer Protocol, Process Discovery, System Information Discovery"
+        },
+        {
+            "ID": "S0039",
+            "Name": "Net",
+            "References": "[2][4]",
+            "Techniques": "Account Discovery: Domain Account, Account Discovery: Local Account, Create Account: Local Account, Create Account: Domain Account, Indicator Removal: Network Share Connection Removal, Network Share Discovery, Password Policy Discovery, Permission Groups Discovery: Domain Groups, Permission Groups Discovery: Local Groups, Remote Services: SMB/Windows Admin Shares, Remote System Discovery, System Network Connections Discovery, System Service Discovery, System Services: Service Execution, System Time Discovery"
+        },
+        {
+            "ID": "S0108",
+            "Name": "netsh",
+            "References": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf",
+            "Techniques": "Event Triggered Execution: Netsh Helper DLL, Impair Defenses: Disable or Modify System Firewall, Proxy, Software Discovery: Security Software Discovery"
+        },
+        {
+            "ID": "S0097",
+            "Name": "Ping",
+            "References": "[2][4]",
+            "Techniques": "Remote System Discovery"
+        },
+        {
+            "ID": "S0029",
+            "Name": "PsExec",
+            "References": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf",
+            "Techniques": "Create Account: Domain Account, Create or Modify System Process: Windows Service, Lateral Tool Transfer, Remote Services: SMB/Windows Admin Shares, System Services: Service Execution"
+        },
+        {
+            "ID": "S0629",
+            "Name": "RainyDay",
+            "References": "https://www.bitdefender.com/files/News/CaseStudies/study/396/Bitdefender-PR-Whitepaper-NAIKON-creat5397-en-EN.pdf",
+            "Techniques": "Application Layer Protocol: Web Protocols, Command and Scripting Interpreter: Windows Command Shell, Create or Modify System Process: Windows Service, Credentials from Password Stores: Credentials from Web Browsers, Credentials from Password Stores: Windows Credential Manager, Data from Local System, Data Staged: Local Data Staging, Deobfuscate/Decode Files or Information, Encrypted Channel: Symmetric Cryptography, Exfiltration Over Web Service: Exfiltration to Cloud Storage, Fallback Channels, File and Directory Discovery, Hijack Execution Flow: DLL Side-Loading, Indicator Removal: File Deletion, Ingress Tool Transfer, Masquerading: Match Legitimate Name or Location, Masquerading: Masquerade Task or Service, Native API, Non-Application Layer Protocol, Obfuscated Files or Information: Encrypted/Encoded File, Process Discovery, Proxy, Scheduled Task/Job: Scheduled Task, Screen Capture, System Service Discovery"
+        },
+        {
+            "ID": "S0055",
+            "Name": "RARSTONE",
+            "References": "[2][1]",
+            "Techniques": "File and Directory Discovery, Ingress Tool Transfer, Non-Application Layer Protocol, Process Injection: Dynamic-link Library Injection"
+        },
+        {
+            "ID": "S0058",
+            "Name": "SslMM",
+            "References": "[2][1]",
+            "Techniques": "Access Token Manipulation, Boot or Logon Autostart Execution: Shortcut Modification, Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder, Fallback Channels, Impair Defenses: Disable or Modify Tools, Input Capture: Keylogging, Masquerading: Match Legitimate Name or Location, System Information Discovery, System Owner/User Discovery"
+        },
+        {
+            "ID": "S0060",
+            "Name": "Sys10",
+            "References": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf",
+            "Techniques": "Application Layer Protocol: Web Protocols, Encrypted Channel: Symmetric Cryptography, Permission Groups Discovery: Local Groups, System Information Discovery, System Network Configuration Discovery, System Owner/User Discovery"
+        },
+        {
+            "ID": "S0096",
+            "Name": "Systeminfo",
+            "References": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf",
+            "Techniques": "System Information Discovery"
+        },
+        {
+            "ID": "S0057",
+            "Name": "Tasklist",
+            "References": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf",
+            "Techniques": "Process Discovery, Software Discovery: Security Software Discovery, System Service Discovery"
+        },
+        {
+            "ID": "S0059",
+            "Name": "WinMM",
+            "References": "[2][1]",
+            "Techniques": "Application Layer Protocol: Web Protocols, Fallback Channels, File and Directory Discovery, Process Discovery, System Information Discovery, System Owner/User Discovery"
+        }
+    ]
+}

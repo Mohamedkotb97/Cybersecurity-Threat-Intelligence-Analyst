@@ -1,0 +1,43 @@
+{
+    "Group Details": {
+        "Group Name": "DragonOK",
+        "Group ID": "G0017",
+        "Description": "DragonOKis a threat group that has targeted Japanese organizations with phishing emails. Due to overlapping TTPs, including similar custom tools,DragonOKis thought to have a direct or indirect relationship with the threat groupMoafee.[1]It is known to use a variety of malware, including Sysget/HelloBridge, PlugX, PoisonIvy, FormerFirstRat, NFlog, and NewCT.[2]",
+        "References": [
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/wp-operation-quantum-entanglement.pdf",
+                "text": "[1]"
+            },
+            {
+                "number": "2",
+                "link": "http://researchcenter.paloaltonetworks.com/2015/04/unit-42-identifies-new-dragonok-backdoor-malware-deployed-against-japanese-targets/",
+                "text": "[2]"
+            },
+            {
+                "number": "2",
+                "link": "http://researchcenter.paloaltonetworks.com/2015/04/unit-42-identifies-new-dragonok-backdoor-malware-deployed-against-japanese-targets/",
+                "text": "[2]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/wp-operation-quantum-entanglement.pdf",
+                "text": "[1]"
+            }
+        ]
+    },
+    "Associated Groups": [
+        {
+            "ID": "S0013",
+            "Name": "PlugX",
+            "References": "http://researchcenter.paloaltonetworks.com/2015/04/unit-42-identifies-new-dragonok-backdoor-malware-deployed-against-japanese-targets/",
+            "Techniques": "Application Layer Protocol: Web Protocols, Application Layer Protocol: DNS, Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder, Command and Scripting Interpreter: Windows Command Shell, Create or Modify System Process: Windows Service, Deobfuscate/Decode Files or Information, Encrypted Channel: Symmetric Cryptography, File and Directory Discovery, Hide Artifacts: Hidden Files and Directories, Hijack Execution Flow: DLL Side-Loading, Hijack Execution Flow: DLL Search Order Hijacking, Ingress Tool Transfer, Input Capture: Keylogging, Masquerading: Masquerade Task or Service, Masquerading: Match Legitimate Name or Location, Modify Registry, Native API, Network Share Discovery, Non-Application Layer Protocol, Obfuscated Files or Information, Process Discovery, Query Registry, Screen Capture, System Network Connections Discovery, Trusted Developer Utilities Proxy Execution: MSBuild, Virtualization/Sandbox Evasion: System Checks, Web Service: Dead Drop Resolver"
+        },
+        {
+            "ID": "S0012",
+            "Name": "PoisonIvy",
+            "References": "https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/wp-operation-quantum-entanglement.pdf",
+            "Techniques": "Application Window Discovery, Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder, Boot or Logon Autostart Execution: Active Setup, Command and Scripting Interpreter: Windows Command Shell, Create or Modify System Process: Windows Service, Data from Local System, Data Staged: Local Data Staging, Encrypted Channel: Symmetric Cryptography, Ingress Tool Transfer, Input Capture: Keylogging, Modify Registry, Obfuscated Files or Information, Process Injection: Dynamic-link Library Injection, Rootkit"
+        }
+    ]
+}

@@ -1,0 +1,239 @@
+{
+    "Group Details": {
+        "Group Name": "admin@338",
+        "Group ID": "G0018",
+        "Description": "admin@338is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such asPoisonIvy, as well as some non-public backdoors.[1]",
+        "References": [
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+                "text": "[1]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+                "text": "[1]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+                "text": "[1]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+                "text": "[1]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+                "text": "[1]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+                "text": "[1]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+                "text": "[1]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+                "text": "[1]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+                "text": "[1]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+                "text": "[1]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+                "text": "[1]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+                "text": "[1]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+                "text": "[1]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+                "text": "[1]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+                "text": "[1]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+                "text": "[1]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+                "text": "[1]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+                "text": "[1]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+                "text": "[1]"
+            },
+            {
+                "number": "1",
+                "link": "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+                "text": "[1]"
+            }
+        ]
+    },
+    "Associated Groups": [
+        {
+            "Domain": "Enterprise",
+            "ID": "T1087",
+            "ID.1": ".001",
+            "Name": "Account Discovery: Local Account",
+            "Use": "admin@338 actors used the following commands following exploitation of a machine with LOWBALL malware to enumerate user accounts: net user >> %temp%\\download net user /domain >> %temp%\\download[1]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1059",
+            "ID.1": ".003",
+            "Name": "Command and Scripting Interpreter: Windows Command Shell",
+            "Use": "Following exploitation with LOWBALL malware, admin@338 actors created a file containing a list of commands to be executed on the compromised computer.[1]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1203",
+            "ID.1": "T1203",
+            "Name": "Exploitation for Client Execution",
+            "Use": "admin@338 has exploited client software vulnerabilities for execution, such as Microsoft Word CVE-2012-0158.[1]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1083",
+            "ID.1": "T1083",
+            "Name": "File and Directory Discovery",
+            "Use": "admin@338 actors used the following commands after exploiting a machine with LOWBALL malware to obtain information about files and directories: dir c:\\ >> %temp%\\download dir \"c:\\Documents and Settings\" >> %temp%\\download dir \"c:\\Program Files\\\" >> %temp%\\download dir d:\\ >> %temp%\\download[1]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1036",
+            "ID.1": ".005",
+            "Name": "Masquerading: Match Legitimate Name or Location",
+            "Use": "admin@338 actors used the following command to rename one of their tools to a benign file name: ren \"%temp%\\upload\" audiodg.exe[1]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1069",
+            "ID.1": ".001",
+            "Name": "Permission Groups Discovery: Local Groups",
+            "Use": "admin@338 actors used the following command following exploitation of a machine with LOWBALL malware to list local groups: net localgroup administrator >> %temp%\\download[1]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1566",
+            "ID.1": ".001",
+            "Name": "Phishing: Spearphishing Attachment",
+            "Use": "admin@338 has sent emails with malicious Microsoft Office documents attached.[1]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1082",
+            "ID.1": "T1082",
+            "Name": "System Information Discovery",
+            "Use": "admin@338 actors used the following commands after exploiting a machine with LOWBALL malware to obtain information about the OS: ver >> %temp%\\download systeminfo >> %temp%\\download[1]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1016",
+            "ID.1": "T1016",
+            "Name": "System Network Configuration Discovery",
+            "Use": "admin@338 actors used the following command after exploiting a machine with LOWBALL malware to acquire information about local networks: ipconfig /all >> %temp%\\download[1]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1049",
+            "ID.1": "T1049",
+            "Name": "System Network Connections Discovery",
+            "Use": "admin@338 actors used the following command following exploitation of a machine with LOWBALL malware to display network connections: netstat -ano >> %temp%\\download[1]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1007",
+            "ID.1": "T1007",
+            "Name": "System Service Discovery",
+            "Use": "admin@338 actors used the following command following exploitation of a machine with LOWBALL malware to obtain information about services: net start >> %temp%\\download[1]"
+        },
+        {
+            "Domain": "Enterprise",
+            "ID": "T1204",
+            "ID.1": ".002",
+            "Name": "User Execution: Malicious File",
+            "Use": "admin@338 has attempted to get victims to launch malicious Microsoft Word attachments delivered via spearphishing emails.[1]"
+        }
+    ],
+    "Tactics and Techniques": [
+        {
+            "ID": "S0043",
+            "Name": "BUBBLEWRAP",
+            "References": "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+            "Techniques": "Application Layer Protocol: Web Protocols, Non-Application Layer Protocol, System Information Discovery"
+        },
+        {
+            "ID": "S0100",
+            "Name": "ipconfig",
+            "References": "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+            "Techniques": "System Network Configuration Discovery"
+        },
+        {
+            "ID": "S0042",
+            "Name": "LOWBALL",
+            "References": "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+            "Techniques": "Application Layer Protocol: Web Protocols, Ingress Tool Transfer, Web Service: Bidirectional Communication"
+        },
+        {
+            "ID": "S0039",
+            "Name": "Net",
+            "References": "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+            "Techniques": "Account Discovery: Domain Account, Account Discovery: Local Account, Create Account: Local Account, Create Account: Domain Account, Indicator Removal: Network Share Connection Removal, Network Share Discovery, Password Policy Discovery, Permission Groups Discovery: Domain Groups, Permission Groups Discovery: Local Groups, Remote Services: SMB/Windows Admin Shares, Remote System Discovery, System Network Connections Discovery, System Service Discovery, System Services: Service Execution, System Time Discovery"
+        },
+        {
+            "ID": "S0104",
+            "Name": "netstat",
+            "References": "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+            "Techniques": "System Network Connections Discovery"
+        },
+        {
+            "ID": "S0012",
+            "Name": "PoisonIvy",
+            "References": "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+            "Techniques": "Application Window Discovery, Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder, Boot or Logon Autostart Execution: Active Setup, Command and Scripting Interpreter: Windows Command Shell, Create or Modify System Process: Windows Service, Data from Local System, Data Staged: Local Data Staging, Encrypted Channel: Symmetric Cryptography, Ingress Tool Transfer, Input Capture: Keylogging, Modify Registry, Obfuscated Files or Information, Process Injection: Dynamic-link Library Injection, Rootkit"
+        },
+        {
+            "ID": "S0096",
+            "Name": "Systeminfo",
+            "References": "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+            "Techniques": "System Information Discovery"
+        }
+    ]
+}
